@@ -1,4 +1,12 @@
 import demucs.api
+import sys
+import os
+
+if len(sys.argv) < 2:
+    print("Usage: python demu.py <audio_file_path>")
+    sys.exit(1)
+
+audio_file_path = sys.argv[1]  # Get the audio file path from command line arguments
 
 # Initialize with default parameters:
 separator = demucs.api.Separator()
@@ -7,18 +15,12 @@ separator = demucs.api.Separator()
 separator = demucs.api.Separator(model="mdx_extra", segment=12)
 
 # Separating an audio file
-origin, separated = separator.separate_audio_file("modern pop ballad.wav")
-
-# Separating a loaded audio
-#origin, separated = separator.separate_tensor(origin)
-
-# If you encounter an error like CUDA out of memory, you can use this to change parameters like `segment`:
-#separator.update_parameter(segment=smaller_segment)
-
-print(separated)
-type(separated)
+origin, separated = separator.separate_audio_file(audio_file_path)
 
 for stem, source in separated.items():
+    # Ensure the 'stems' directory exists or create it
+    os.makedirs('../stems', exist_ok=True)
+    
     # Save as WAV with encoding specified
-    demucs.api.save_audio(source, f"{stem}_prova.wav", samplerate=separator.samplerate, bits_per_sample=16)
+    demucs.api.save_audio(source, f"../stems/{stem}.wav", samplerate=separator.samplerate, bits_per_sample=16)
  
