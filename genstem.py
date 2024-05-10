@@ -16,7 +16,7 @@ args = parser.parse_args()
 
 
 # Load model and processor
-dataset = "musicgen-small"  # Set API dataset
+dataset = "musicgen-medium"  # Set API dataset
 processor = AutoProcessor.from_pretrained("facebook/" + dataset)
 model = MusicgenForConditionalGeneration.from_pretrained("facebook/" + dataset)
 #model = model.to('cuda:1')
@@ -26,7 +26,7 @@ inputs = processor(text=[args.prompt], padding=True, return_tensors="pt")
 #inputs = inputs.to('cuda:1')
 
 # Generate audio
-audio_values = model.generate(**inputs, max_new_tokens=128)
+audio_values = model.generate(**inputs, max_new_tokens=1024)
 
 # Determine sampling rate from model configuration
 sampling_rate = model.config.audio_encoder.sampling_rate

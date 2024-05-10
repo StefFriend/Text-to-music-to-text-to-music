@@ -1,34 +1,38 @@
-# Import necessary libraries
+import argparse
 import scipy.io.wavfile
 from transformers import AutoProcessor, MusicgenForConditionalGeneration
-from IPython.display import Audio
+import warnings
 
-# Function to read prompt text from file
-def read_prompt_from_file(filename):
-    with open(filename, 'r') as file:
-        return file.read().strip()
+warnings.filterwarnings("ignore")
+
+# Set up argument parsing
+parser = argparse.ArgumentParser(description='Generate music based on a textual prompt.')
+parser.add_argument('-prompt', type=str, required=True, help='Text prompt for music generation.')
+parser.add_argument('-iteration', type=int, required=True, help='Iteration number for naming the output file.')
+
+
+args = parser.parse_args()
+
 
 # Load model and processor
-dataset = "musicgen-medium" # Set API dataset
+dataset = "musicgen-mmedium"  # Set API dataset
 processor = AutoProcessor.from_pretrained("facebook/" + dataset)
 model = MusicgenForConditionalGeneration.from_pretrained("facebook/" + dataset)
-
-# Retrieve the input from the text file
-prompt_text = read_prompt_from_file('prompt.txt')
+#model = model.to('cuda:1')
 
 # Process the input
-inputs = processor(text=[prompt_text], padding=True, return_tensors="pt")
+inputs = processor(text=[args.prompt], padding=True, return_tensors="pt")
+#inputs = inputs.to('cuda:1')
 
 # Generate audio
-audio_values = model.generate(**inputs, max_new_tokens=64)
+audio_values = model.generate(**inputs, max_new_tokens=1024)
 
-# Listen to generated music (This part will only work in an IPython environment)
+# Determine sampling rate from model configuration
 sampling_rate = model.config.audio_encoder.sampling_rate
-print("Generated Music:")
-Audio(audio_values[0].numpy(), rate=sampling_rate)
 
-# Save output to wav file
-formatted_prompt = prompt_text.replace(" ", "_")[:50]
-filename = f"{formatted_prompt} - {dataset}.wav"
+# Create filename using iteration number
+filename = f"wav/iteration_{args.iteration}.wav"  # Ensure 'wav' directory exists
+
+# Save the output to a WAV file in the 'wav' directory
 scipy.io.wavfile.write(filename, rate=sampling_rate, data=audio_values[0, 0].numpy())
 print(f"Output saved to {filename}")
