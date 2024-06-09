@@ -2,6 +2,7 @@
 title: Text-to-music-to-text-to-music
 —
 
+[Go to Prompt1](#Initial Prompt 1) [Go to Prompt2](#Initial Prompt 2) [Go to Prompt3](#Initial Prompt 3)
 
 ## Initial Prompt 1:
 A traditional blues track featuring a slow, soulful tempo. The song should be built around a 12-bar blues structure with prominent electric guitar riffs and a harmonica. Background should include a steady bass line and a minimalist drum beat to enhance the melancholic yet resilient spirit of blues.
