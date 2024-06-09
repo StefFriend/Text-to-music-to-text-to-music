@@ -1,7 +1,7 @@
-
+<span id=prompt></span>
 [Go to Prompt1](#prompt1) [Go to Prompt2](#prompt2) [Go to Prompt3](#prompt3)
 
-<h2 id=prompt1>Prompt 1</h2>
+<h2 id=prompt1>Prompt 1</h2> [Go to Prompt selection](#prompt)
 A traditional blues track featuring a slow, soulful tempo. The song should be built around a 12-bar blues structure with prominent electric guitar riffs and a harmonica. Background should include a steady bass line and a minimalist drum beat to enhance the melancholic yet resilient spirit of blues.
 ![Initial Prompt Waveform](initial_prompt1_waveform_spectrogram.png)
 <audio controls>
@@ -10,13 +10,6 @@ Your browser does not support the audio element.
 </audio>
 
 ## Stem Content
-
-### Vocals
-![Vocals Waveform](stem1/vocals_waveform_spectrogram.png)
-<audio controls>
-  <source src="stem1/vocals.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
 
 ### Bass
 ![Bass Waveform](stem1/bass_waveform_spectrogram.png)
@@ -36,6 +29,13 @@ Your browser does not support the audio element.
 ![Other Waveform](stem1/other_waveform_spectrogram.png)
 <audio controls>
   <source src="stem1/other.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+### Vocals
+![Vocals Waveform](stem1/vocals_waveform_spectrogram.png)
+<audio controls>
+  <source src="stem1/vocals.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -289,7 +289,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-<h2 id=prompt2>Prompt 2</h2>
+<h2 id=prompt2>Prompt 2</h2> [Go to Prompt selection](#prompt)
 A classical music piece that embodies the elegance and complexity of the Baroque period. The composition should involve a full orchestra with a focus on string instruments like violins, violas, and cellos, complemented by harpsichords and woodwinds. Add intricate melodies and counterpoint techniques that highlight the skills of individual musicians.
 ![Initial Prompt Waveform](initial_prompt2_waveform_spectrogram.png)
 <audio controls>
@@ -298,13 +298,6 @@ Your browser does not support the audio element.
 </audio>
 
 ## Stem Content
-
-### Vocals
-![Vocals Waveform](stem2/vocals_waveform_spectrogram.png)
-<audio controls>
-  <source src="stem2/vocals.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
 
 ### Bass
 ![Bass Waveform](stem2/bass_waveform_spectrogram.png)
@@ -324,6 +317,13 @@ Your browser does not support the audio element.
 ![Other Waveform](stem2/other_waveform_spectrogram.png)
 <audio controls>
   <source src="stem2/other.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+### Vocals
+![Vocals Waveform](stem2/vocals_waveform_spectrogram.png)
+<audio controls>
+  <source src="stem2/vocals.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
@@ -577,7 +577,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-<h2 id=prompt3>Prompt 3</h2>
+<h2 id=prompt3>Prompt 3</h2> [Go to Prompt selection](#prompt)
 A reggae track with a relaxed and upbeat rhythm characteristic of traditional reggae music. Use steady drum patterns, a bass guitar playing on the offbeat, and rhythmic guitar strumming. Include elements like the melodica or steel drums to give it an authentic island sound.
 ![Initial Prompt Waveform](initial_prompt3_waveform_spectrogram.png)
 <audio controls>
@@ -586,13 +586,6 @@ Your browser does not support the audio element.
 </audio>
 
 ## Stem Content
-
-### Vocals
-![Vocals Waveform](stem3/vocals_waveform_spectrogram.png)
-<audio controls>
-  <source src="stem3/vocals.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
 
 ### Bass
 ![Bass Waveform](stem3/bass_waveform_spectrogram.png)
@@ -612,6 +605,13 @@ Your browser does not support the audio element.
 ![Other Waveform](stem3/other_waveform_spectrogram.png)
 <audio controls>
   <source src="stem3/other.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+### Vocals
+![Vocals Waveform](stem3/vocals_waveform_spectrogram.png)
+<audio controls>
+  <source src="stem3/vocals.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
