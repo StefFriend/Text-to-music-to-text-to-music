@@ -1,9 +1,10 @@
 # Project Title
 
-## Initial Prompt
-![Initial Prompt Waveform](initial_prompt/initial_prompt_waveform_spectrogram.png)
+## Initial Prompt:
+A traditional blues track featuring a slow, soulful tempo. The song should be built around a 12-bar blues structure with prominent electric guitar riffs and a harmonica. Background should include a steady bass line and a minimalist drum beat to enhance the melancholic yet resilient spirit of blues.
+![Initial Prompt Waveform](initial_prompt_waveform_spectrogram.png)
 <audio controls>
-  <source src="initial_prompt/initial_prompt.wav" type="audio/wav">
+  <source src="initial_prompt.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
