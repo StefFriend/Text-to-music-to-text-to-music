@@ -1,7 +1,7 @@
 
-[Go to Prompt1](##Initial Prompt 1:) [Go to Prompt2](##Initial Prompt 2:) [Go to Prompt3](##Initial Prompt 3:)
+[Go to Prompt1](##Initial Prompt 1) [Go to Prompt2](##Initial Prompt 2) [Go to Prompt3](##Initial Prompt 3)
 
-## Initial Prompt 1:
+## Initial Prompt 1
 A traditional blues track featuring a slow, soulful tempo. The song should be built around a 12-bar blues structure with prominent electric guitar riffs and a harmonica. Background should include a steady bass line and a minimalist drum beat to enhance the melancholic yet resilient spirit of blues.
 ![Initial Prompt Waveform](initial_prompt1_waveform_spectrogram.png)
 <audio controls>
@@ -289,7 +289,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-## Initial Prompt 2:
+## Initial Prompt 2
 A classical music piece that embodies the elegance and complexity of the Baroque period. The composition should involve a full orchestra with a focus on string instruments like violins, violas, and cellos, complemented by harpsichords and woodwinds. Add intricate melodies and counterpoint techniques that highlight the skills of individual musicians.
 ![Initial Prompt Waveform](initial_prompt2_waveform_spectrogram.png)
 <audio controls>
@@ -577,7 +577,7 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 
-## Initial Prompt 3:
+## Initial Prompt 3
 A reggae track with a relaxed and upbeat rhythm characteristic of traditional reggae music. Use steady drum patterns, a bass guitar playing on the offbeat, and rhythmic guitar strumming. Include elements like the melodica or steel drums to give it an authentic island sound.
 ![Initial Prompt Waveform](initial_prompt3_waveform_spectrogram.png)
 <audio controls>
