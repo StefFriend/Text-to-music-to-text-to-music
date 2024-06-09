@@ -13,21 +13,30 @@ Your browser does not support the audio element.
 
 ## Stem Content
 
-### Prompt 1 - Bass stem
-![Bass Waveform](stem1/bass_waveform_spectrogram.png)
-<audio controls>
-  <source src="stem1/bass.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
 ### Prompt 1 - Drums stem
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums Waveform](stem1/drums_waveform_spectrogram.png)
 <audio controls>
   <source src="stem1/drums.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
+### Prompt 1 - Bass stem
+  
+[Go to Prompt 1](#prompt1)  
+   
+![Bass Waveform](stem1/bass_waveform_spectrogram.png)
+<audio controls>
+  <source src="stem1/bass.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 ### Prompt 1 - Other stem
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other Waveform](stem1/other_waveform_spectrogram.png)
 <audio controls>
   <source src="stem1/other.wav" type="audio/wav">
@@ -35,6 +44,9 @@ Your browser does not support the audio element.
 </audio>
 
 ### Prompt 1 - Vocals stem
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals Waveform](stem1/vocals_waveform_spectrogram.png)
 <audio controls>
   <source src="stem1/vocals.wav" type="audio/wav">
@@ -45,60 +57,90 @@ Your browser does not support the audio element.
 
 ### Drums Iterations
 #### Prompt 1 - Drums Iteration 1
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 1 Waveform](iterations1/drums_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 2
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 2 Waveform](iterations1/drums_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 3
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 3 Waveform](iterations1/drums_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 4
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 4 Waveform](iterations1/drums_4_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 5
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 5 Waveform](iterations1/drums_5_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 6
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 6 Waveform](iterations1/drums_6_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_6.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 7
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 7 Waveform](iterations1/drums_7_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_7.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 8
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 8 Waveform](iterations1/drums_8_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_8.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 9
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 9 Waveform](iterations1/drums_9_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_9.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 10
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Drums 10 Waveform](iterations1/drums_10_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_10.wav" type="audio/wav">
@@ -107,60 +149,90 @@ Your browser does not support the audio element.
 
 ### Bass Iterations
 #### Prompt 1 - Bass Iteration 1
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 1 Waveform](iterations1/bass_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 2
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 2 Waveform](iterations1/bass_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 3
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 3 Waveform](iterations1/bass_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 4
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 4 Waveform](iterations1/bass_4_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 5
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 5 Waveform](iterations1/bass_5_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 6
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 6 Waveform](iterations1/bass_6_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_6.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 7
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 7 Waveform](iterations1/bass_7_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_7.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 8
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 8 Waveform](iterations1/bass_8_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_8.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 9
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 9 Waveform](iterations1/bass_9_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_9.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 10
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Bass 10 Waveform](iterations1/bass_10_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/bass_10.wav" type="audio/wav">
@@ -169,60 +241,90 @@ Your browser does not support the audio element.
 
 ### Other Iterations
 #### Prompt 1 - Other Iteration 1
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 1 Waveform](iterations1/other_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 2
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 2 Waveform](iterations1/other_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 3
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 3 Waveform](iterations1/other_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 4
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 4 Waveform](iterations1/other_4_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 5
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 5 Waveform](iterations1/other_5_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 6
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 6 Waveform](iterations1/other_6_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_6.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 7
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 7 Waveform](iterations1/other_7_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_7.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 8
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 8 Waveform](iterations1/other_8_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_8.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 9
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 9 Waveform](iterations1/other_9_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_9.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 10
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Other 10 Waveform](iterations1/other_10_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/other_10.wav" type="audio/wav">
@@ -231,60 +333,90 @@ Your browser does not support the audio element.
 
 ### Vocals Iterations
 #### Prompt 1 - Vocals Iteration 1
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 1 Waveform](iterations1/vocals_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 2
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 2 Waveform](iterations1/vocals_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 3
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 3 Waveform](iterations1/vocals_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 4
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 4 Waveform](iterations1/vocals_4_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 5
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 5 Waveform](iterations1/vocals_5_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 6
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 6 Waveform](iterations1/vocals_6_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_6.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 7
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 7 Waveform](iterations1/vocals_7_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_7.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 8
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 8 Waveform](iterations1/vocals_8_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_8.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 9
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 9 Waveform](iterations1/vocals_9_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_9.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 10
+  
+[Go to Prompt 1](#prompt1)  
+   
 ![Vocals 10 Waveform](iterations1/vocals_10_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/vocals_10.wav" type="audio/wav">
@@ -303,21 +435,30 @@ Your browser does not support the audio element.
 
 ## Stem Content
 
-### Prompt 2 - Bass stem
-![Bass Waveform](stem2/bass_waveform_spectrogram.png)
-<audio controls>
-  <source src="stem2/bass.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
 ### Prompt 2 - Drums stem
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums Waveform](stem2/drums_waveform_spectrogram.png)
 <audio controls>
   <source src="stem2/drums.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
+### Prompt 2 - Bass stem
+  
+[Go to Prompt 2](#prompt2)  
+   
+![Bass Waveform](stem2/bass_waveform_spectrogram.png)
+<audio controls>
+  <source src="stem2/bass.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
 ### Prompt 2 - Other stem
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other Waveform](stem2/other_waveform_spectrogram.png)
 <audio controls>
   <source src="stem2/other.wav" type="audio/wav">
@@ -325,6 +466,9 @@ Your browser does not support the audio element.
 </audio>
 
 ### Prompt 2 - Vocals stem
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals Waveform](stem2/vocals_waveform_spectrogram.png)
 <audio controls>
   <source src="stem2/vocals.wav" type="audio/wav">
@@ -335,60 +479,90 @@ Your browser does not support the audio element.
 
 ### Drums Iterations
 #### Prompt 2 - Drums Iteration 1
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 1 Waveform](iterations2/drums_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 2
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 2 Waveform](iterations2/drums_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 3
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 3 Waveform](iterations2/drums_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 4
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 4 Waveform](iterations2/drums_4_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 5
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 5 Waveform](iterations2/drums_5_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 6
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 6 Waveform](iterations2/drums_6_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_6.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 7
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 7 Waveform](iterations2/drums_7_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_7.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 8
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 8 Waveform](iterations2/drums_8_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_8.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 9
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 9 Waveform](iterations2/drums_9_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_9.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Drums Iteration 10
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Drums 10 Waveform](iterations2/drums_10_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_10.wav" type="audio/wav">
@@ -397,60 +571,90 @@ Your browser does not support the audio element.
 
 ### Bass Iterations
 #### Prompt 2 - Bass Iteration 1
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 1 Waveform](iterations2/bass_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 2
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 2 Waveform](iterations2/bass_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 3
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 3 Waveform](iterations2/bass_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 4
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 4 Waveform](iterations2/bass_4_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 5
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 5 Waveform](iterations2/bass_5_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 6
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 6 Waveform](iterations2/bass_6_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_6.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 7
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 7 Waveform](iterations2/bass_7_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_7.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 8
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 8 Waveform](iterations2/bass_8_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_8.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 9
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 9 Waveform](iterations2/bass_9_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_9.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Bass Iteration 10
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Bass 10 Waveform](iterations2/bass_10_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/bass_10.wav" type="audio/wav">
@@ -459,60 +663,90 @@ Your browser does not support the audio element.
 
 ### Other Iterations
 #### Prompt 2 - Other Iteration 1
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 1 Waveform](iterations2/other_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 2
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 2 Waveform](iterations2/other_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 3
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 3 Waveform](iterations2/other_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 4
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 4 Waveform](iterations2/other_4_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 5
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 5 Waveform](iterations2/other_5_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 6
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 6 Waveform](iterations2/other_6_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_6.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 7
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 7 Waveform](iterations2/other_7_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_7.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 8
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 8 Waveform](iterations2/other_8_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_8.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 9
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 9 Waveform](iterations2/other_9_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_9.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Other Iteration 10
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Other 10 Waveform](iterations2/other_10_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/other_10.wav" type="audio/wav">
@@ -521,60 +755,90 @@ Your browser does not support the audio element.
 
 ### Vocals Iterations
 #### Prompt 2 - Vocals Iteration 1
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 1 Waveform](iterations2/vocals_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 2
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 2 Waveform](iterations2/vocals_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 3
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 3 Waveform](iterations2/vocals_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_3.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 4
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 4 Waveform](iterations2/vocals_4_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_4.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 5
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 5 Waveform](iterations2/vocals_5_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_5.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 6
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 6 Waveform](iterations2/vocals_6_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_6.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 7
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 7 Waveform](iterations2/vocals_7_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_7.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 8
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 8 Waveform](iterations2/vocals_8_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_8.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 9
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 9 Waveform](iterations2/vocals_9_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_9.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 #### Prompt 2 - Vocals Iteration 10
+  
+[Go to Prompt 2](#prompt2)  
+   
 ![Vocals 10 Waveform](iterations2/vocals_10_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/vocals_10.wav" type="audio/wav">
@@ -593,16 +857,6 @@ Your browser does not support the audio element.
 
 ## Stem Content
 
-### Prompt 3 - Bass stem
-  
-[Go to Prompt 3](#prompt3)  
-   
-![Bass Waveform](stem3/bass_waveform_spectrogram.png)
-<audio controls>
-  <source src="stem3/bass.wav" type="audio/wav">
-Your browser does not support the audio element.
-</audio>
-
 ### Prompt 3 - Drums stem
   
 [Go to Prompt 3](#prompt3)  
@@ -610,6 +864,16 @@ Your browser does not support the audio element.
 ![Drums Waveform](stem3/drums_waveform_spectrogram.png)
 <audio controls>
   <source src="stem3/drums.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+
+### Prompt 3 - Bass stem
+  
+[Go to Prompt 3](#prompt3)  
+   
+![Bass Waveform](stem3/bass_waveform_spectrogram.png)
+<audio controls>
+  <source src="stem3/bass.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
