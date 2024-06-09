@@ -1,4 +1,4 @@
-theme: jekyll-theme-cayman
-title: Interpreting end-to-end deep learning models for speech source localization using layer-wise relevance propagation
+theme: jekyll-theme-minimal
+title: Text-to-music-to-text-to-music
 description:
 show_downloads: True
