@@ -1,9 +1,9 @@
 # Project Title
 
 ## Initial Prompt
-![Initial Prompt Waveform](path/to/initial_prompt_waveform_spectrogram.png)
+![Initial Prompt Waveform](initial_prompt_waveform_spectrogram.png)
 <audio controls>
-  <source src="path/to/initial_prompt.wav" type="audio/wav">
+  <source src="initial_prompt.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
