@@ -1,50 +1,80 @@
----
 # Project Title
----
 
-## Initial Prompt: 
-A traditional blues track featuring a slow, soulful tempo. The song should be built around a 12-bar blues structure with prominent electric guitar riffs and a harmonica. Background should include a steady bass line and a minimalist drum beat to enhance the melancholic yet resilient spirit of blues.
-![Initial Prompt Waveform](initial_prompt_waveform_spectrogram.png)
+## Initial Prompt
+![Initial Prompt Waveform](initial_prompt/initial_prompt_waveform_spectrogram.png)
 <audio controls>
-  <source src="initial_prompt.wav" type="audio/wav">
+  <source src="initial_prompt/initial_prompt.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 ## Stem Content
 
 ### Vocals
-![Vocals Waveform](path/to/vocals_waveform_spectrogram.png)
+![Vocals Waveform](stem/vocals_waveform_spectrogram.png)
 <audio controls>
-  <source src="path/to/vocals.wav" type="audio/wav">
+  <source src="stem/vocals.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 ### Bass
-![Bass Waveform](path/to/bass_waveform_spectrogram.png)
+![Bass Waveform](stem/bass_waveform_spectrogram.png)
 <audio controls>
-  <source src="path/to/bass.wav" type="audio/wav">
+  <source src="stem/bass.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 ### Drums
-![Drums Waveform](path/to/drums_waveform_spectrogram.png)
+![Drums Waveform](stem/drums_waveform_spectrogram.png)
 <audio controls>
-  <source src="path/to/drums.wav" type="audio/wav">
+  <source src="stem/drums.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 ### Other
-![Other Waveform](path/to/other_waveform_spectrogram.png)
+![Other Waveform](stem/other_waveform_spectrogram.png)
 <audio controls>
-  <source src="path/to/other.wav" type="audio/wav">
+  <source src="stem/other.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
 
 ## Iterations
-### Example Iteration
-![Iteration Example Waveform](path/to/iteration_waveform_spectrogram.png)
+
+### Drums Iterations
+{% for i in (1..10) %}
+#### Drums Iteration {{i}}
+![Drums {{i}} Waveform](iterations/drums_{{i}}_waveform_spectrogram.png)
 <audio controls>
-  <source src="path/to/iteration_audio.wav" type="audio/wav">
+  <source src="iterations/drums_{{i}}.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+{% endfor %}
 
+### Bass Iterations
+{% for i in (1..10) %}
+#### Bass Iteration {{i}}
+![Bass {{i}} Waveform](iterations/bass_{{i}}_waveform_spectrogram.png)
+<audio controls>
+  <source src="iterations/bass_{{i}}.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+{% endfor %}
+
+### Vocals Iterations
+{% for i in (1..10) %}
+#### Vocals Iteration {{i}}
+![Vocals {{i}} Waveform](iterations/vocals_{{i}}_waveform_spectrogram.png)
+<audio controls>
+  <source src="iterations/vocals_{{i}}.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+{% endfor %}
+
+### Other Iterations
+{% for i in (1..10) %}
+#### Other Iteration {{i}}
+![Other {{i}} Waveform](iterations/other_{{i}}_waveform_spectrogram.png)
+<audio controls>
+  <source src="iterations/other_{{i}}.wav" type="audio/wav">
+Your browser does not support the audio element.
+</audio>
+{% endfor %}
