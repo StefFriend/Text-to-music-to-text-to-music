@@ -63,7 +63,9 @@ Your browser does not support the audio element.
 #### Prompt 1 - Drums Iteration 1
   
 [Go to Prompt 1](#prompt1)  
-   
+a hip hop song that consists of a low pitched female vocal talking over punchy kick and snare hits, low toms, shimmering hi hats, groovy bass and synth keys melody. chill and easygoing.
+This song contains someone scratching over a hip hop beat with a lot of scratching. This is an amateur recording.
+ 
 ![Drums 1 Waveform](iterations1/drums_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations1/drums_1.wav" type="audio/wav">
