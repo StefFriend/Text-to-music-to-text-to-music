@@ -1,6 +1,6 @@
 ## Vggish implementation for Genre recognition
 
-You need to download vggish_model.ckpt from HuggingFace:
+You need to download vggish_model.ckpt from HuggingFace and move it to vggish directory:
 
 ```bash
 cd vggish/
