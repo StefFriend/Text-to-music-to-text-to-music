@@ -9,9 +9,9 @@ This project explores the capabilities of artificial intelligence (AI) in the do
 
 The project is based on:
 
-1. Music Generation: We utilized MusicGen, a state-of-the-art AI model developed by Meta (formerly Facebook), to generate high-quality music from textual descriptions. MusicGen's multi-head attention mechanism allows it to align generated music closely with the semantic content of textual prompts. For this project, we employed the facebook/musicgen-medium model, which consists of a 1.5B parameter model for text-to-music conversion.
+1. Music Generation: We utilized MusicGen, a state-of-the-art AI model developed by Meta (formerly Facebook), to generate high-quality music from textual descriptions. MusicGen's multi-head attention mechanism allows it to align generated music closely with the semantic content of textual prompts. For this project, we employed the `facebook/musicgen-medium` model, which consists of a 1.5B parameter model for text-to-music conversion.
 
-2. Music Separation: Demucs, a U-Net architecture model, was used for music source separation. It features an encoder and decoder with convolutional layers to downsample and upsample the input waveform, producing separate waveforms for each    source. We utilized the model with model=mdx_extra pre-trained weights and a segment parameter set to 12, enhancing the model's capability in source separation.
+2. Music Separation: Demucs, a U-Net architecture model, was used for music source separation. It features an encoder and decoder with convolutional layers to downsample and upsample the input waveform, producing separate waveforms for each source. We utilized the model with `model=mdx_extra` pre-trained weights and a `segment` parameter set to 12, enhancing the model's capability in source separation.
 
 3. Music Captioning: LP-Music Caps, an AI model specialized in creating textual descriptions of audio content, was employed for music captioning. It leverages a transformer-based framework to capture complex temporal dynamics and patterns within musical compositions, producing detailed and contextually relevant captions.
 
