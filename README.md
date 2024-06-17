@@ -9,24 +9,15 @@ This project explores the capabilities of artificial intelligence (AI) in the do
 
 The project is based on:
 
-1. Music Generation:
-   We utilized MusicGen, a state-of-the-art AI model developed by Meta (formerly Facebook), to generate high-quality music from textual descriptions. MusicGen's multi-head attention mechanism allows it to align generated      music closely with the semantic content of textual prompts. For this project, we employed the facebook/musicgen-medium model, which consists of a 1.5B parameter model for text-to-music conversion.
+1. Music Generation: We utilized MusicGen, a state-of-the-art AI model developed by Meta (formerly Facebook), to generate high-quality music from textual descriptions. MusicGen's multi-head attention mechanism allows it to align generated music closely with the semantic content of textual prompts. For this project, we employed the facebook/musicgen-medium model, which consists of a 1.5B parameter model for text-to-music conversion.
 
-3. Music Separation
-   
-   Demucs, a U-Net architecture model, was used for music source separation. It features an encoder and decoder with convolutional layers to downsample and upsample the input waveform, producing separate waveforms for each    source. We utilized the model with model=mdx_extra pre-trained weights and a segment parameter set to 12, enhancing the model's capability in source separation.
+2. Music Separation: Demucs, a U-Net architecture model, was used for music source separation. It features an encoder and decoder with convolutional layers to downsample and upsample the input waveform, producing separate waveforms for each    source. We utilized the model with model=mdx_extra pre-trained weights and a segment parameter set to 12, enhancing the model's capability in source separation.
 
-4. Music Captioning
-   
-   LP-Music Caps, an AI model specialized in creating textual descriptions of audio content, was employed for music captioning. It leverages a transformer-based framework to capture complex temporal dynamics and patterns      within musical compositions, producing detailed and contextually relevant captions.
+3. Music Captioning: LP-Music Caps, an AI model specialized in creating textual descriptions of audio content, was employed for music captioning. It leverages a transformer-based framework to capture complex temporal dynamics and patterns within musical compositions, producing detailed and contextually relevant captions.
 
-5. Genre Recognition
-   
-   For genre recognition, we utilized a convolutional neural network (CNN) composed of various layers designed to transform and reduce the dimensions of embeddings. This CNN was trained using the public GTZAN dataset,         organized into 10 musical genres.
+4. Genre Recognition: For genre recognition, we utilized a convolutional neural network (CNN) composed of various layers designed to transform and reduce the dimensions of embeddings. This CNN was trained using the public GTZAN dataset, organized into 10 musical genres.
 
-6. Iterative Process
-   
-   Each initial prompt stem underwent ten iterations through a cycle of captioning, regeneration, classification, and data collection. This iterative process aimed to assess the stability and accuracy of genre recognition     in AI-generated music.
+5. Iterative Process: Each initial prompt stem underwent ten iterations through a cycle of captioning, regeneration, classification, and data collection. This iterative process aimed to assess the stability and accuracy of genre recognition in AI-generated music.
 
 We obtained three [results](https://steffriend.github.io/Text-to-music-to-text-to-music/):
 - Prompt 1: Blues - The generated music was coherent with the blues genre, though genre recognition confidence was low.
