@@ -14,9 +14,9 @@ Your browser does not support the audio element.
 ## Stem Content
 
 ### Prompt 1 - Drums stem
-  
 [Go to Prompt 1](#prompt1)  
-   
+instrumental. medium with a hip-hop beat with steady drumming, cymbals crashing, tambourine percussions, and a male voice chanting the same phrase. The audio quality is poor.
+an electro song that consists of a low pitched male vocal talking, after which there is a punchy kick and snare hits, shimmering cymbals and groovy bass guitar. energetic and addictive.   
 ![Drums Waveform](stem1/drums_waveform_spectrogram.png)
 <audio controls>
   <source src="stem1/drums.wav" type="audio/wav">
@@ -24,9 +24,10 @@ Your browser does not support the audio element.
 </audio>
 
 ### Prompt 1 - Bass stem
-  
 [Go to Prompt 1](#prompt1)  
-   
+An electric guitar melody played over playback instrumental. The recording is noisy and in mono.
+An electric guitar melody playing. The recording is noisy and in mono.
+
 ![Bass Waveform](stem1/bass_waveform_spectrogram.png)
 <audio controls>
   <source src="stem1/bass.wav" type="audio/wav">
@@ -34,8 +35,9 @@ Your browser does not support the audio element.
 </audio>
 
 ### Prompt 1 - Other stem
-  
 [Go to Prompt 1](#prompt1)  
+a passionate electric guitar melody playing in the background. emotional and passionate. The recording is noisy and in mono.
+an electric guitar melody. mellow, chill and easygoing.
    
 ![Other Waveform](stem1/other_waveform_spectrogram.png)
 <audio controls>
@@ -46,6 +48,8 @@ Your browser does not support the audio element.
 ### Prompt 1 - Vocals stem
   
 [Go to Prompt 1](#prompt1)  
+a woodblock one shot. The recording is noisy and in mono.
+a woodblock one shot. The recording is noisy and in mono.
    
 ![Vocals Waveform](stem1/vocals_waveform_spectrogram.png)
 <audio controls>
