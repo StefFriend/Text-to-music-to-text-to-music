@@ -29,6 +29,7 @@ We obtained three results:
 - Prompt 2: Classical - The generated music was coherent, with a high confidence score in genre recognition.
 - Prompt 3: Reggae - The generated music was coherent, with a high confidence score in genre recognition.
 
+
 The project successfully demonstrated the cyclic process of generating music from text and vice versa, emphasizing both the potential and challenges of iterative generative models. The iterative cycles introduced variations that highlighted the creative potential of these models, while also indicating the need for improved consistency and genre recognition. The observed genre-specific instability suggests varying levels of AI model adaptability to different musical styles, highlighting critical areas for future research and refinement.
 
 ## Requirements
