@@ -1,3 +1,3 @@
-## Viggish implementation for genre recognition
+## Vggish implementation for genre recognition
 
 Leave this directory as is.
