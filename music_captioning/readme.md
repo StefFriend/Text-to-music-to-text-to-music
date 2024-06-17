@@ -1,9 +1,10 @@
 ## LP-Music Caps installation
 
 ```bash
-
+# install requirements (read above notes about CUDA)
 pip install -r requirements.txt
 
+# then
 wget https://huggingface.co/seungheondoh/lp-music-caps/resolve/main/transfer.pth -O exp/transfer/lp_music_caps/last.pth
 ```
 (Please install torch according to your [CUDA version](https://pytorch.org/get-started/previous-versions/).)
