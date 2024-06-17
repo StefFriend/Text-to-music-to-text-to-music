@@ -24,7 +24,7 @@ The project is based on:
 5. Iterative Process
    Each initial prompt stem underwent ten iterations through a cycle of captioning, regeneration, classification, and data collection. This iterative process aimed to assess the stability and accuracy of genre recognition     in AI-generated music.
 
-We obtained three results:
+We obtained three [results]{https://steffriend.github.io/Text-to-music-to-text-to-music/}:
 - Prompt 1: Blues - The generated music was coherent with the blues genre, though genre recognition confidence was low.
 - Prompt 2: Classical - The generated music was coherent, with a high confidence score in genre recognition.
 - Prompt 3: Reggae - The generated music was coherent, with a high confidence score in genre recognition.
