@@ -1,4 +1,6 @@
 argparse
 numpy
-torch
+torch==1.13.1
 omegaconf
+transformers
+librosa
