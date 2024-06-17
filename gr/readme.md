@@ -3,6 +3,7 @@
 You need to download vggish_model.ckpt from HuggingFace and move it to vggish directory:
 
 ```bash
+# install requirements
 pip install -e
 
 cd vggish/
