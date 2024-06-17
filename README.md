@@ -15,7 +15,7 @@ The project is based on:
 
 3. Music Captioning: LP-Music Caps, an AI model specialized in creating textual descriptions of audio content, was employed for music captioning. It leverages a transformer-based framework to capture complex temporal dynamics and patterns within musical compositions, producing detailed and contextually relevant captions.
 
-4. Genre Recognition: For genre recognition, we utilized a convolutional neural network (CNN) composed of various layers designed to transform and reduce the dimensions of embeddings. This CNN was trained using the public GTZAN dataset, organized into 10 musical genres.
+4. Genre Recognition: we utilized a convolutional neural network (CNN) composed of various layers designed to transform and reduce the dimensions of embeddings. This CNN was trained using the public GTZAN dataset, organized into 10 musical genres.
 
 5. Iterative Process: Each initial prompt stem underwent ten iterations through a cycle of captioning, regeneration, classification, and data collection. This iterative process aimed to assess the stability and accuracy of genre recognition in AI-generated music.
 
