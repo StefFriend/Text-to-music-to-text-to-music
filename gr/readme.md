@@ -4,7 +4,7 @@ You need to download vggish_model.ckpt from HuggingFace and move it to vggish di
 
 ```bash
 # install requirements
-pip install -e
+pip install -r requirements.txt
 
 # then
 cd vggish/
