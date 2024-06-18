@@ -72,6 +72,7 @@ This song contains someone scratching over a hip hop beat with a lot of scratchi
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 2
+The song is an instrumental. medium with a groovy bass line, steady drumming rhythm, keyboard accompaniment and various percussion hits. The song is youthful and groovy. The audio quality is average.
   
 [Go to Prompt 1](#prompt1)  
    
@@ -81,6 +82,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 3
+an electro song that consists of a punchy kick, buzzy synth bass, claps and shimmering hi-hats. exciting and a bit too digital.
+an electro song that consists of a punchy kick, buzzy synth bass, claps and shimmering hi-hats. groovy and the recording is noisy.
   
 [Go to Prompt 1](#prompt1)  
    
@@ -90,6 +93,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 4
+a drum cover of a pop song that consists of energetic tom rolls, shimmering cymbals and punchy kick and snare hits. energetic and exciting.
+a drum cover of a pop song that consists of energetic tom rolls, shimmering cymbals and punchy kick and snare hits. energetic and exciting.
   
 [Go to Prompt 1](#prompt1)  
    
@@ -99,6 +104,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 5
+This is an industrial metal/alternative metal music piece. There is a male vocalist singing melodically in the lead. The main tune is being played by the keyboard and the electric guitar while the bass guitar are playing in the background. The rhythm is provided by a fast tempo acoustic drum beat. The atmosphere is aggressive. This piece could be played at nightclubs or dance clubs.
+This clip features a drum solo. The kick is played on the cowbell. The snare is played continuously on the first count of the song. After four bars, the percussion plays a simple beat. The bass plays a groovy bassline. There are no voices in this song. This song can be played in a video game.
   
 [Go to Prompt 1](#prompt1)  
    
@@ -108,7 +115,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 6
-  
+This clip features a drum solo being played on a rock drum kit. The snare, kick, toms, hi-hat and splash are being struck. A pattern is played on this percussion. There are no other instruments in this song. There is no voice in this clip. This song can be played in a drum instruction video.
+a cover of a rock song and it consists of a flat male vocal talking, followed by punchy kick and snare hits. energetic and the recording is noisy and in mono.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Drums 6 Waveform](iterations1/drums_6_waveform_spectrogram.png)
@@ -117,7 +126,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 7
-  
+someone playing a drum set with a fill-ins on the backbeat. A e-guitar is playing a countermelody in a higher register along with a drum stick hit. This song may be playing live at a festival.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Drums 7 Waveform](iterations1/drums_7_waveform_spectrogram.png)
@@ -126,7 +136,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 8
-  
+an electric guitar melody played over playback that consists of groovy bass, shimmering hi hats and snare hits. There are some crowd noises in the background. The recording is noisy and in mono.
+an arpeggiated electric guitar melody. The recording is noisy and in mono.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Drums 8 Waveform](iterations1/drums_8_waveform_spectrogram.png)
@@ -135,7 +147,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 9
-  
+someone playing a melody on a theremin. This is an amateur recording. This song may be playing in a church.
+someone playing a very fast snare drum-roll. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing in a theater.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Drums 9 Waveform](iterations1/drums_9_waveform_spectrogram.png)
@@ -144,7 +158,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Drums Iteration 10
-  
+a cover of a rock song and it consists of a flat male vocal singing over acoustic rhythm guitar chords. The recording is noisy and in mono.
+a cover of a rock song and it consists of a flat male vocal singing over acoustic rhythm guitar chords. The recording is noisy, in mono and passionate and emotional.
 [Go to Prompt 1](#prompt1)  
    
 ![Drums 10 Waveform](iterations1/drums_10_waveform_spectrogram.png)
@@ -155,7 +170,9 @@ Your browser does not support the audio element.
 
 ### Bass Iterations
 #### Prompt 1 - Bass Iteration 1
-  
+instrumental. fast with an enthusiastic electric guitar riff. muffled, punchy, buoyant and vibrant. The audio quality is poor with ambient sounds of people clapping and cheering.
+instrumental. medium with a ukelelele rhythm. droning, rhythmic, deep and has a tribal feel. The audio quality is poor.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 1 Waveform](iterations1/bass_1_waveform_spectrogram.png)
@@ -164,7 +181,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 2
-  
+an instrumental. medium with a lively accordion harmony, tuba and other stringed instruments. playful, cheerful, happy, joyful and animated.
+someone playing a melody on a synthesizer in the mid- to higher register. A tambourine is playing a short melody on top in a higher key. This song may be playing in a meditation session.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 2 Waveform](iterations1/bass_2_waveform_spectrogram.png)
@@ -173,7 +192,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 3
-  
+a live performance of a folk song and it consists of harmonica solo melody over groovy double bass and arpeggiated acoustic guitar melody. passionate and emotional.
+a cover of a blues song and it consists of harmonica solo melody played over groovy double bass and shimmering hi-hats. The recording is noisy and in mono.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 3 Waveform](iterations1/bass_3_waveform_spectrogram.png)
@@ -182,7 +203,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 4
-  
+instrumental. slow with a harmonica playing the main melody. soft, mellow, euphonious, dreamy, sentimental and romantic. Classical Instrumental.
+a harmonica solo melody playing. The recording is noisy, in mono and emotional and passionate.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 4 Waveform](iterations1/bass_4_waveform_spectrogram.png)
@@ -191,6 +214,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 5
+wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie during wedding scenes.
+gospel music piece. There is a female vocalist singing melodically in the lead. The tune is being played by a clarinet while the bass guitar plays in the background. The atmosphere is religious. This piece could be used in the soundtrack of a historical drama movie during the scenes where the characters are reminiscing about the good old days.
   
 [Go to Prompt 1](#prompt1)  
    
@@ -200,7 +225,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 6
-  
+The song is an instrumental. The song is medium tempo with a accordion playing in harmony and accompaniment style with both medley and harmony and no other instrumentation. beautiful and romantic. The audio quality is poor.
+instrumental. slow with a violin harmony, piano accompaniment and rhythmic whistling sounds. soft, mellow, passionate, emotional and sentimental. a Western Classical.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 6 Waveform](iterations1/bass_6_waveform_spectrogram.png)
@@ -209,7 +236,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 7
-  
+a sustained string melody, followed by woodwind and mellow piano melody. emotional and passionate - like something you would hear in old cartoons.
+an arpeggiated harp melody. mellow, soft, emotional and sad.
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 7 Waveform](iterations1/bass_7_waveform_spectrogram.png)
@@ -218,7 +246,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 8
-  
+a mellow arpeggiated piano melody playing in the background, while the breathy flute melody is playing over it. sad, emotional and passionate.
+a sustained string melody, followed by woodwind and mellow marimba melodies. emotional, passionate and sad - like something you would hear in movies.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 8 Waveform](iterations1/bass_8_waveform_spectrogram.png)
@@ -227,7 +257,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 9
-  
+a mellow piano melody, followed by sustained cello melody. sad, emotional and passionate.
+a mellow piano melody, followed by sustained strings melody. sad, emotional and melancholic.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 9 Waveform](iterations1/bass_9_waveform_spectrogram.png)
@@ -236,7 +268,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Bass Iteration 10
-  
+a live performance of an orchestra and it consists of sustained strings melody, mellow woodwinds melody, suspenseful violin melody and muffled percussion. epic, powerful and passionate.
+a wide brass melody, woodwinds melody and mellow piano melody. suspenseful and intense.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Bass 10 Waveform](iterations1/bass_10_waveform_spectrogram.png)
@@ -247,7 +281,9 @@ Your browser does not support the audio element.
 
 ### Other Iterations
 #### Prompt 1 - Other Iteration 1
-  
+an electric guitar solo melody. passionate and emotional. The recording is noisy and in mono.
+an electric guitar melody played over playback that consists of punchy kick and snare hits, shimmering hi hats and groovy bass. emotional and the recording is noisy and in mono.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Other 1 Waveform](iterations1/other_1_waveform_spectrogram.png)
@@ -256,7 +292,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 2
-  
+The song is an instrumental. medium with a guitar playing rhythm, steady drumming rhythm, cymbal crashes and guitar strumming rhythm. The song is emotional and passionate. The audio quality is poor.
+The song is an instrumental. slow with a guitarist demonstrating a guitar playing arpeggiated melody. The song is emotional and has poor audio quality.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Other 2 Waveform](iterations1/other_2_waveform_spectrogram.png)
@@ -265,7 +303,9 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 3
-  
+a cover of a rock song that consists of a passionate female vocal singing over sustained strings melody, punchy kick and snare hits, shimmering hi hats and acoustic rhythm guitar. emotional and passionate.
+a cover of a rock song and it consists of an arpeggiated electric guitar melody playing over it. The recording is noisy and in mono.
+
 [Go to Prompt 1](#prompt1)  
    
 ![Other 3 Waveform](iterations1/other_3_waveform_spectrogram.png)
@@ -274,6 +314,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 4
+a live performance of a rock song that consists of an electric guitar melody played over groovy bass guitar, punchy snare and shimmering cymbals. easygoing and energetic.
+This is an alternative rock music piece. There is a male vocalist singing melodically. The main tune is being played by the acoustic guitar while the bass guitar is playing in the background. The rhythmic background consists of a slow tempo acoustic drum beat. The atmosphere is melancholic. This piece could be used in the soundtrack of a drama movie that takes place in the United Kingdom.
   
 [Go to Prompt 1](#prompt1)  
    
@@ -283,6 +325,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 5
+This amateur recording features a guitar solo being played. Only one note is played on the instrument. This is accompanied by percussion playing a simple beat. The bass plays the root notes of the chords. There are no voices in this song. This song can be played in an instructional video.
+a harpsichord melody being played. There are some ambient sounds in the background. The recording is noisy and in mono.
   
 [Go to Prompt 1](#prompt1)  
    
@@ -292,7 +336,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 6
-  
+a harpsichord melody being played. There are some keyboard tapping sounds in the right channel of the stereo image. The recording is a bit noisy.
+a harpsichord melody being played. The recording is noisy and passionate and emotional.
 [Go to Prompt 1](#prompt1)  
    
 ![Other 6 Waveform](iterations1/other_6_waveform_spectrogram.png)
@@ -301,7 +346,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 7
-  
+a cover of a song and it consists of harmonica solo melody over acoustic rhythm guitar chords. passionate and emotional. The recording is noisy and in mono.
+a cover of a rock song and it consists of harmonica solo melody over acoustic rhythm guitar chords. passionate and emotional. The recording is noisy and in mono.
 [Go to Prompt 1](#prompt1)  
    
 ![Other 7 Waveform](iterations1/other_7_waveform_spectrogram.png)
@@ -310,7 +356,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 8
-  
+Someone is strumming chords on an e-guitar while someone is playing a melody on a mandolin. This song may be playing gathered around a bonfire.
+Someone is strumming chords on an e-guitar while someone is playing a melody on a mandolin. This song may be playing live at a concert.
 [Go to Prompt 1](#prompt1)  
    
 ![Other 8 Waveform](iterations1/other_8_waveform_spectrogram.png)
@@ -319,7 +366,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 9
-  
+an accordion melody playing over it. The recording is noisy and emotional and passionate.
+instrumental. fast with a beautiful Harpsichord melody. upbeat, catchy, engaging, vibrant and vivacious.
 [Go to Prompt 1](#prompt1)  
    
 ![Other 9 Waveform](iterations1/other_9_waveform_spectrogram.png)
@@ -328,7 +376,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Other Iteration 10
-  
+instrumental. fast with a spirited harmonica harmony. upbeat, catchy, engaging, vibrant and vivacious. a Harmonica instrumental.
+a flat male vocal talking, after which there is a synth melody playing. happy and fun. The recording is noisy and in mono.
 [Go to Prompt 1](#prompt1)  
    
 ![Other 10 Waveform](iterations1/other_10_waveform_spectrogram.png)
@@ -339,7 +388,8 @@ Your browser does not support the audio element.
 
 ### Vocals Iterations
 #### Prompt 1 - Vocals Iteration 1
-  
+This is an instrument showcase jam. There is a flute playing a solo in an instructive manner. The atmosphere is easygoing. This piece could be sampled for use in beat-making.
+fast tapping in rhythm. The sounds are clicking. There is a metronome sound present as well. The rhythm is regimented.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 1 Waveform](iterations1/vocals_1_waveform_spectrogram.png)
@@ -348,7 +398,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 2
-  
+a lively instrumental. medium with a plethora of instruments like trumpets, trombone, tuba, bongos and a mandolin. vibrant, melodic, engaging, happy, cheerful and animated.
+someone playing a melody on a harp. This is an amateur recording. This song may be playing in a live concert.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 2 Waveform](iterations1/vocals_2_waveform_spectrogram.png)
@@ -357,7 +408,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 3
-  
+someone playing a very low sounding bass flute like instrument. In the background you can hear birds chirping. This song may be playing during a live performance from a music school.
+someone playing a very low sounding bass flute like instrument. Playing a rhythmic melody with a percussive sound created with the mouth. This song may be playing in a live concert.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 3 Waveform](iterations1/vocals_3_waveform_spectrogram.png)
@@ -366,7 +418,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 4
-  
+someone playing a xylophone sound and rattles. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing demonstrating specific sounds on a device.
+someone playing a xylophone sound and rattles. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing demonstrating specific sounds on a device.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 4 Waveform](iterations1/vocals_4_waveform_spectrogram.png)
@@ -375,7 +428,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 5
-  
+instrumental. slow with a didgeridoo harmony with the sound of birds chirping. incessant, trippy, hypnotic, meditative and trance like. a drumming tutorial.
+someone playing congas with a percussive sound. This is an amateur recording. This may be playing in a live concert.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 5 Waveform](iterations1/vocals_5_waveform_spectrogram.png)
@@ -384,7 +438,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 6
-  
+someone playing a xylophone sound and rattles. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing demonstrating specific sounds on a device.
+Low fidelity recording of a live concert. The crowd noise is very loud and the audience is screaming. The audio is distorting. Amidst the crowd noise, beat boxing can be heard performing a house music style beat.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 6 Waveform](iterations1/vocals_6_waveform_spectrogram.png)
@@ -393,7 +448,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 7
-  
+a live performance of a traditional song and it consists of a punchy snare hits, shimmering cymbals and wooden percussion. soulful and the recording is noisy.
+The song is an instrumental. fast with a bagpipes playing a rhythmic melody. The song is spirited and highly engaging. The audio quality is average and poor.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 7 Waveform](iterations1/vocals_7_waveform_spectrogram.png)
@@ -402,7 +458,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 8
-  
+wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie during wedding scenes.
+wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie during wedding scenes.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 8 Waveform](iterations1/vocals_8_waveform_spectrogram.png)
@@ -411,7 +468,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 9
-  
+a live performance of a folk song and it consists of harmonica solo melody over wooden percussion. emotional and passionate, even though the recording is noisy.
+instrumental. fast with a spirited accordion harmony and rhythmic acoustic guitar accompaniment. rich, dense, complex, engaging, full bodied and pleasant. a Folk song instrumental.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 9 Waveform](iterations1/vocals_9_waveform_spectrogram.png)
@@ -420,7 +478,8 @@ Your browser does not support the audio element.
 Your browser does not support the audio element.
 </audio>
 #### Prompt 1 - Vocals Iteration 10
-  
+Someone is playing a melody on a zitar along with a shrutibox in the background. At the end male and female voices are chanting in the mid to high range and a percussive sound can be heard. This song may be playing live at a concert.
+This clip features a sound of percussion being played on the snare drum. There are no other instruments in this clip. There is no voice in this song. This song can be played in an instructional video.
 [Go to Prompt 1](#prompt1)  
    
 ![Vocals 10 Waveform](iterations1/vocals_10_waveform_spectrogram.png)
