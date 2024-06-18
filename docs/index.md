@@ -46,7 +46,6 @@ Your browser does not support the audio element.
 </audio>
 
 ### Prompt 1 - Vocals stem
-  
 [Go to Prompt 1](#prompt1)  
 a woodblock one shot. The recording is noisy and in mono.
 a woodblock one shot. The recording is noisy and in mono.
@@ -61,7 +60,6 @@ Your browser does not support the audio element.
 
 ### Drums Iterations
 #### Prompt 1 - Drums Iteration 1
-  
 [Go to Prompt 1](#prompt1)  
 a hip hop song that consists of a low pitched female vocal talking over punchy kick and snare hits, low toms, shimmering hi hats, groovy bass and synth keys melody. chill and easygoing.
 This song contains someone scratching over a hip hop beat with a lot of scratching. This is an amateur recording.
