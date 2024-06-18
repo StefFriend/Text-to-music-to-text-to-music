@@ -71,7 +71,9 @@ This song contains someone scratching over a hip hop beat with a lot of scratchi
   <source src="iterations1/drums_1.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+
 #### Prompt 1 - Drums Iteration 2
+
 The song is an instrumental. medium with a groovy bass line, steady drumming rhythm, keyboard accompaniment and various percussion hits. The song is youthful and groovy. The audio quality is average.
   
 [Go to Prompt 1](#prompt1)  
@@ -81,6 +83,7 @@ The song is an instrumental. medium with a groovy bass line, steady drumming rhy
   <source src="iterations1/drums_2.wav" type="audio/wav">
 Your browser does not support the audio element.
 </audio>
+
 #### Prompt 1 - Drums Iteration 3
 an electro song that consists of a punchy kick, buzzy synth bass, claps and shimmering hi-hats. exciting and a bit too digital.
 an electro song that consists of a punchy kick, buzzy synth bass, claps and shimmering hi-hats. groovy and the recording is noisy.
