@@ -73,8 +73,6 @@ Your browser does not support the audio element.
 #### Prompt 1 - Drums Iteration 2
 [Go to Prompt 1](#prompt1) 
 The song is an instrumental. medium with a groovy bass line, steady drumming rhythm, keyboard accompaniment and various percussion hits. The song is youthful and groovy. The audio quality is average.
-  
- 
    
 ![Drums 2 Waveform](iterations1/drums_2_waveform_spectrogram.png)
 <audio controls>
