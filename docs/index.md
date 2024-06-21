@@ -579,7 +579,10 @@ Your browser does not support the audio element.
 #### Prompt 2 - Drums Iteration 1
   
 [Go to Prompt 2](#prompt2)  
-   
+
+song that would be suitable as meditation music or background music for sleeping. It is calming and features sustained high pitched notes on a pad synth. The song feels ethereal and relaxing.
+song that would be suitable as meditation music or background music for sleeping. It is calming and features sustained high pitched notes on a pad synth. The song feels ethereal and relaxing.
+
 ![Drums 1 Waveform](iterations2/drums_1_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_1.wav" type="audio/wav">
@@ -588,7 +591,10 @@ Your browser does not support the audio element.
 #### Prompt 2 - Drums Iteration 2
   
 [Go to Prompt 2](#prompt2)  
-   
+
+an ambient song that consists of a wide mellow bells melody. calming and relaxing, like something you would listen to while meditating. The recording is noisy.
+an ambient song that consists of a wide sustained strings melody. mellow, relaxing and calming - like something you would listen to while meditating. The recording is noisy.
+
 ![Drums 2 Waveform](iterations2/drums_2_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_2.wav" type="audio/wav">
@@ -597,7 +603,9 @@ Your browser does not support the audio element.
 #### Prompt 2 - Drums Iteration 3
   
 [Go to Prompt 2](#prompt2)  
-   
+
+
+
 ![Drums 3 Waveform](iterations2/drums_3_waveform_spectrogram.png)
 <audio controls>
   <source src="iterations2/drums_3.wav" type="audio/wav">
