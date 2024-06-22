@@ -19,7 +19,7 @@ an arpeggiated harp melody. mellow, soft, emotional and sad.",0.01%,classical,99
 bass_8,"a mellow arpeggiated piano melody playing in the background, while the breathy flute melody is playing over it. sad, emotional and passionate.
 a sustained string melody, followed by woodwind and mellow marimba melodies. emotional, passionate and sad - like something you would hear in movies.",0.02%,classical,99.52%,0.0
 bass_9,"a mellow piano melody, followed by sustained cello melody. sad, emotional and passionate.
-a mellow piano melody, followed by sustained strings melody. sad, emotional and melancholic.",0.00%,classical,99.98%,
+a mellow piano melody, followed by sustained strings melody. sad, emotional and melancholic.",0.00%,classical,99.98%,0
 bass_10,"a live performance of an orchestra and it consists of sustained strings melody, mellow woodwinds melody, suspenseful violin melody and muffled percussion. epic, powerful and passionate.
 a wide brass melody, woodwinds melody and mellow piano melody. suspenseful and intense.",0.00%,classical,99.84%,0.0
 drums_0,"instrumental. medium with a hip-hop beat with steady drumming, cymbals crashing, tambourine percussions, and a male voice chanting the same phrase. The audio quality is poor.
@@ -45,7 +45,7 @@ someone playing a very fast snare drum-roll. This is an amateur recording. You c
 drums_10,"a cover of a rock song and it consists of a flat male vocal singing over acoustic rhythm guitar chords. The recording is noisy and in mono.
 a cover of a rock song and it consists of a flat male vocal singing over acoustic rhythm guitar chords. The recording is noisy, in mono and passionate and emotional.",25.61%,pop,47.79%,0.0
 other_0,"a passionate electric guitar melody playing in the background. emotional and passionate. The recording is noisy and in mono.
-an electric guitar melody. mellow, chill and easygoing.",5.06%,classical,73.76%,0.0
+an electric guitar melody. mellow, chill and easygoing.",5.06%,classical,73.76%,
 other_1,"an electric guitar solo melody. passionate and emotional. The recording is noisy and in mono.
 an electric guitar melody played over playback that consists of punchy kick and snare hits, shimmering hi hats and groovy bass. emotional and the recording is noisy and in mono.",86.81%,blues,86.81%,1.0
 other_2,"The song is an instrumental. medium with a guitar playing rhythm, steady drumming rhythm, cymbal crashes and guitar strumming rhythm. The song is emotional and passionate. The audio quality is poor.
