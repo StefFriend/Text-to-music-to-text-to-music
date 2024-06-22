@@ -1,0 +1,90 @@
+Iteration,Prompt,classical Confidence,Predicted Genre,Predicted Genre Confidence,Iterative Consistency Check
+initial_prompt,"A classical music piece that embodies the elegance and complexity of the Baroque period. The composition should involve a full orchestra with a focus on string instruments like violins, violas, and cellos, complemented by harpsichords and woodwinds. Add intricate melodies and counterpoint techniques that highlight the skills of individual musicians.",99.85%,classical,99.85%,
+bass_0,"a woodblock one shot. The recording is noisy and in mono.
+a woodblock one shot. The recording is noisy and in mono.",74.11%,classical,74.11%,0.0
+bass_1,"an upbeat instrumental. fast with an animated trombone melody with an enthusiastic piano accompaniment. vibrant, engaging, buzzing, incessant, untiring and droning like a bee.This music a Western Classical.
+a live performance of a classical song and it consists of tuba melody. mellow, soft and reverberant, as it was recorded in a huge concert hall. The recording is a bit noisy.",91.35%,classical,91.35%,0.0
+bass_2,"This song features a male voice singing the main melody. This is accompanied by a guitar playing arpeggiated chords. A piano plays chords in the background. The mood of this song is happy. There are no other instruments in this song. This song can be played in a romantic movie.
+This song features a female voice singing the main melody. This is accompanied by a viola playing chords. A piano plays chords in the background. The mood of this song is romantic. There are no other instruments in this song. This song can be played in a romantic movie.",28.72%,blues,51.66%,0.0
+bass_3,"a cover of a rock song and it consists of an arpeggiated acoustic guitar melody. The recording is noisy, in mono and emotional and passionate.
+a live performance of a folk song that consists of an arpeggiated acoustic guitar melody. passionate, emotional and the recording is noisy and in mono.",4.20%,country,92.75%,0.0
+bass_4,"instrumental. slow with a beautiful violin harmony. soft, pensive, melancholic, sentimental, heart-touching and soulful. a Western Classical.
+someone playing a melody on a bagpipes in the mid- to higher register. This song may be playing during a live performance.",22.17%,pop,39.33%,0.0
+bass_5,"a mellow arpeggiated piano melody and breathy flute melody. emotional and passionate.
+a violin melody and arpeggiated acoustic guitar melody. emotional and passionate. The recording is a bit noisy.",99.96%,classical,99.96%,0.0
+bass_6,"This song contains someone playing a melody on a horn with reverb on it. This song may be playing for a meditation session.
+a sustained strings melody over which there is a mellow arpeggiated harp melody being played. spooky, haunting and emotional.",98.19%,classical,98.19%,0.0
+bass_7,"an ambient song that consists of a mellow wide bells melody. calming, relaxing and hypnotic - like something you would listen to while meditating. The recording is noisy.
+an ambient song that consists of a mellow wide bells melody. calming, relaxing and hypnotic - like something you would listen to while meditating. The recording is noisy.",98.36%,classical,98.36%,0.0
+bass_8,"Someone is playing a melody along with chords in the mid range on an organ. This song may be playing in a church.
+Someone is playing a melody along with chords in the mid range on an organ. This song may be playing in a church.",99.21%,classical,99.21%,0.0
+bass_9,"The song is an instrumental. The song is medium tempo with an accordion playing in harmony and an acoustic guitar accompaniment. The recording is noisy and in mono.
+instrumental. slow with a melancholic accordion harmony. soft, mellow, sentimental, nostalgic, pensive, melancholic and emotional. a Western Classical.",92.17%,classical,92.17%,0.0
+bass_10,"a harmonica solo melody. emotional and passionate. The recording is noisy and in mono.
+a classical song that consists of harmonica solo melody over sustained strings melody. emotional and passionate, even though the recording is noisy.",44.38%,classical,44.38%,0.0
+drums_0,"a woodblock one shot. The recording is noisy and in mono.
+a woodblock one shot. The recording is noisy and in mono.",85.78%,classical,85.78%,0.0
+drums_1,"song that would be suitable as meditation music or background music for sleeping. It is calming and features sustained high pitched notes on a pad synth. The song feels ethereal and relaxing.
+song that would be suitable as meditation music or background music for sleeping. It is calming and features sustained high pitched notes on a pad synth. The song feels ethereal and relaxing.",38.21%,pop,60.60%,0.0
+drums_2,"an ambient song that consists of a wide mellow bells melody. calming and relaxing, like something you would listen to while meditating. The recording is noisy.
+an ambient song that consists of a wide sustained strings melody. mellow, relaxing and calming - like something you would listen to while meditating. The recording is noisy.",97.83%,classical,97.83%,0.0
+drums_3,"meditation music piece. It is an instrumental piece. Initially, there is a keyboard playing a mellow tune on a flute. The atmosphere is calming and relaxing. This piece could be playing in the background at a spa or a wellness center.
+a mellow harp melody. passionate, emotional and the recording is noisy and in mono.",99.82%,classical,99.82%,0.0
+drums_4,"This instrumental song features a harp playing the main melody. The melody is repetitive. This is accompanied by a piano playing chords in the background. There are no voices in this song. The mood of this song is relaxing. This song can be played in a meditation center.
+someone playing a melody on a theremin. This song may be playing in an orchestra.",99.92%,classical,99.92%,0.0
+drums_5,"a synth pad playing over mellow arpeggiated piano melody. soft, mellow and emotional.
+an arpeggiated synth melody. mellow, soft, relaxing and easygoing.",97.29%,classical,97.29%,0.0
+drums_6,"a cover of a rock song and it consists of a flat male vocal singing over sustained strings melody. passionate, emotional and the recording is noisy and in mono.
+a cover of a rock song and it consists of flat male vocal singing over playback. The recording is noisy, in mono and slightly distorted.",2.63%,disco,97.11%,0.0
+drums_7,"a cover of a rock song that consists of a distorted electric guitar melody playing over punchy kick and snare hits, shimmering cymbals and groovy bass guitar. There are some crowd cheering sounds in the background. aggressive and energetic.
+a metal song that consists of a flat male vocal singing over punchy kick and snare hits, shimmering hi hats, wide electric guitar melody and groovy bass guitar. There are some crowd cheering sounds in the background. energetic, aggressive and exciting.",0.22%,metal,81.13%,1.0
+drums_8,"a live performance of a rock song that consists of a distorted electric guitar melody played over punchy kick and snare hits, shimmering cymbals and groovy bass guitar. There are some crowd cheering sounds in the background. energetic, aggressive and upbeat.
+a drum cover of a metal song that consists of punchy kick, claps, shimmering hi hats, energetic cymbals and groovy bass guitar. energetic and aggressive.",0.25%,metal,95.33%,1.0
+drums_9,"an electro song that consists of a wide echoing male vocal singing over punchy kick and snare hits, shimmering hi hats, groovy bass, wide electric guitar melody and synth lead melody. energetic and exciting.
+an electro song that consists of a wide echoing male vocal singing over punchy kick and snare hits, shimmering hi hats, groovy bass, wide electric guitar melody and synth lead melody. energetic and addictive - like something you would hear in clubs during the 80s.",0.62%,metal,89.97%,1.0
+drums_10,"a digital drum with a kick on every beat. A distorted e-guitar is playing a repeating melody on the backbeat. This song may be playing in a club.
+The Electro song features a punchy ""4 on the floor"" kick pattern, followed by shimmering hi hats and groovy synth bass. energetic and exciting.",0.11%,hiphop,78.59%,1.0
+other_0,"We hear a viola and harpsichord being played, with the overall emotion of the piece being thrilling and suspenseful. A high tremolo is played on the violin. The recording is a bit noisy.
+a Western Classical. slow with a lilting violin harmony, cello and piano accompaniment. sad, emotional, sentimental, melancholic, nostalgic, pensive, reflective and sad. This song is a Classical.",99.88%,classical,99.88%,1.0
+other_1,"This composition contains someone playing a solo melody on a horn in the mid to higher register. A string section, flutes and oboes are supported with a short rising harmony. This song may be playing live while listening to an orchestra.
+The song is an instrumental. The song is in medium tempo with a keyboard accompaniment and a bass cello playing percussively with no other instrumentation. soft, mellow, ethereal, meditative, soothing, calming and delicate. This song is a documentary soundtrack.",99.95%,classical,99.95%,1.0
+other_2,"a mellow instrumental. slow with a melancholic harp melody with no accompaniment. soft, mellow, poignant, emotional, sentimental, melancholic, sad, reflective and delicate. This song is a Western Classical.
+This meditation song features a harp playing the main melody. There are no other instruments in this song. The mood of this song is relaxing. This song can be played in a dream sequence in a movie.",99.78%,classical,99.78%,1.0
+other_3,"a mellow harp melody. The recording is noisy and in mono.
+This pop ballad features the main melody. The song is played on a harp. This is accompanied by programmed percussion playing a simple beat. The bass plays the root notes of the chord with no flourishes. There are no other instruments in this song. There is no voice in this clip. This song can be played in a romantic movie.",94.39%,classical,94.39%,1.0
+other_4,"a cover of a rock song and it consists of soft, reverberant flat male vocal singing over mellow piano melody, groovy bass guitar, shimmering hi hats, punchy kick and snappy rimshots. groovy, chill and easygoing.
+an ambient song that consists of a wide mellow synth pad, soft kick hits, buzzy synth bass and shimmering hi hats. relaxing and calming.",17.51%,pop,74.55%,0.0
+other_5,"The song is an instrumental. medium with a groovy bass line, steady drumming rhythm, keyboard accompaniment and various percussion hits. The song is exciting and energetic. The audio quality is poor.
+a live performance of a pop song that consists of a punchy ""4 on the floor"" kick pattern, shimmering hi hats, groovy bass and some claps. exciting and energetic.",5.94%,pop,34.49%,0.0
+other_6,"This song features percussion being played at a fast tempo. The beat is of moderate difficulty. The kick is played on the first count of each bar. The snare is struck on the second and fourth counts of each other. The bass plays the root notes of the chords. There are no voices in this song. This song can be played in a club.
+The song is an instrumental. medium with a groovy bass line, steady drumming rhythm, keyboard accompaniment and various percussion hits. The song is exciting and energetic. The audio quality is poor.",0.73%,hiphop,70.51%,0.0
+other_7,"This song contains a digital drum with a kick on every beat. A sub-bass is playing a repeating melody along with an e-bass. A synth pad is playing chords in the background. This song may be playing in a club.
+This song contains digital drums playing a four on the floor groove with a kick on every beat. A synth bass is playing a melody along to a male voice singing in a higher key. This song may be playing in a techno club.",0.42%,pop,60.36%,0.0
+other_8,"a drum cover of a pop song that consists of energetic tom rolls, shimmering cymbals and punchy kick and snare hits. energetic and exciting.
+a drum cover of a pop song that consists of energetic tom rolls, shimmering cymbals and punchy kick and snare hits. energetic and exciting.",3.53%,pop,64.30%,0.0
+other_9,"a live performance of an electro song that consists of repetitive male vocals singing over punchy ""4 on the floor"" kick pattern, shimmering hi hats, wide electric guitar melody and groovy bass. energetic and aggressive.
+a live performance of an electro song that consists of repetitive male vocals singing over wooden percussion, punchy kick and snare hits, shimmering hi hats and groovy bass. energetic and aggressive.",18.61%,pop,47.48%,0.0
+other_10,"an electro song that consists of a punchy ""4 on the floor"" kick pattern, shimmering hi hats, energetic crash cymbals and groovy synth bass. energetic and hypnotic.
+an electro song that consists of a filter modulated synth bass, punchy kick, shimmering hi hats and punchy ""4 on the floor"" kick pattern. energetic and passionate.",7.14%,hiphop,73.82%,0.0
+vocals_0,"a woodblock one shot. The recording is noisy and in mono.
+meditation music piece. It is an instrumental piece. There is a flute playing a gentle melody in the background. The atmosphere is calming and relaxing. This piece could be used in the soundtrack of a meditation video. It could also be sampled for use in beat-making.",93.43%,classical,93.43%,
+vocals_1,"a classical song that consists of an arpeggiated harp melody. mystical, soulful and passionate.
+a live performance of a classical song and it consists of tuba melody. mellow, soft and reverberant, as it was recorded in a huge concert hall. The recording is a bit noisy.",99.95%,classical,99.95%,
+vocals_2,"This song contains someone playing a gentle and soothing melody on a harp. This song may be playing live.
+This song contains someone playing a melody on the oud. This song may be playing by a performer live on stage.",67.52%,classical,67.52%,
+vocals_3,"This song features the main melody played on a guitar. This is accompanied by a tabla playing percussive elements. The bass plays the root note and fifth of the chord. There are no other instruments in this song. There is no voice in this clip. This song can be played for an instructional video.
+an arpeggiated electric guitar melody. The recording is noisy and in mono.",99.38%,classical,99.38%,
+vocals_4,"an electric guitar melody playing in the left channel of the stereo image. The recording is noisy and in mono.
+an electric guitar melody. mellow, chill and relaxing. The recording is noisy and in mono.",36.27%,blues,52.73%,
+vocals_5,"live performance of a classical music piece. It is an instrumental piece. There is a violin playing the main tune while there is a tuba playing the bass line. The atmosphere is sentimental. This piece could be used in the soundtrack of a drama movie during scenes of hopelessness or heartbreak.
+someone playing a melody on an organ in the mid- to higher register. This song may be playing in a church.",24.67%,metal,52.96%,
+vocals_6,"a theremin solo melody played over sustained strings melody. emotional, sad, heartfelt and the recording is noisy and in mono.
+a brass melody played over mellow piano melody. emotional and passionate, even though the recording is noisy.",99.95%,classical,99.95%,
+vocals_7,"a breathy flute melody played over mellow strings melody. soulful and passionate.
+The song is an instrumental. medium with a recorder being played with a lot of heart, accompanied by string section harmony. The song is emotional and has a bad audio quality.",99.99%,classical,99.99%,
+vocals_8,"a breathy flute melody playing over mellow keys melody. passionate, soulful and the recording is noisy and in mono.
+meditation music piece. There is a flute playing a gentle melody in the lead. The atmosphere of the piece is relaxing and soothing. This piece could be used in the soundtrack of a meditation video. It could also be playing in the background at a spa.",99.82%,classical,99.82%,
+vocals_9,"instrumental. slow with a euphonious harp melody with no accompaniment. soft, mellow, ethereal, melancholic, nostalgic, pensive, soft and ambient. a Western Classical.
+classical music piece. It is an instrumental piece. The flute is playing the main melody while the harpsichord is playing in the background. The atmosphere is gentle and relaxing. This piece could be used in the soundtrack of a drama TV series during the scenes where the characters are taking a stroll through the meadows.",99.39%,classical,99.39%,
+vocals_10,"This instrumental song features a harp melody being played. There are no other instruments in this song. The mood of this song is relaxing. This song can be played in a meditation center.
+new-age music piece. There is no singer in this piece. The acoustic guitar is playing the main melody. The piano is playing a mellow arpeggio in the background. The atmosphere is relaxing and calming. This piece could be used in the soundtrack of a drama movie during a scene of serenity or mourning.",97.22%,classical,97.22%,

@@ -1,0 +1,90 @@
+Iteration,Prompt,blues Confidence,Predicted Genre,Predicted Genre Confidence,Iterative Consistency Check
+initial_prompt,"A traditional blues track featuring a slow, soulful tempo. The song should be built around a 12-bar blues structure with prominent electric guitar riffs and a harmonica. Background should include a steady bass line and a minimalist drum beat to enhance the melancholic yet resilient spirit of blues.",14.07%,pop,42.59%,
+bass_0,"an electric guitar melody played over playback instrumental. The recording is noisy and in mono.
+an electric guitar melody playing. The recording is noisy and in mono.",0.48%,classical,33.37%,0.0
+bass_1,"instrumental. fast with an enthusiastic electric guitar riff. muffled, punchy, buoyant and vibrant. The audio quality is poor with ambient sounds of people clapping and cheering.
+instrumental. medium with a ukelelele rhythm. droning, rhythmic, deep and has a tribal feel. The audio quality is poor.",0.98%,metal,96.66%,0.0
+bass_2,"an instrumental. medium with a lively accordion harmony, tuba and other stringed instruments. playful, cheerful, happy, joyful and animated.
+someone playing a melody on a synthesizer in the mid- to higher register. A tambourine is playing a short melody on top in a higher key. This song may be playing in a meditation session.",0.01%,classical,87.51%,0.0
+bass_3,"a live performance of a folk song and it consists of harmonica solo melody over groovy double bass and arpeggiated acoustic guitar melody. passionate and emotional.,1
+a cover of a blues song and it consists of harmonica solo melody played over groovy double bass and shimmering hi-hats. The recording is noisy and in mono.",5.24%,classical,94.15%,0.0
+bass_4,"instrumental. slow with a harmonica playing the main melody. soft, mellow, euphonious, dreamy, sentimental and romantic. Classical Instrumental.
+a harmonica solo melody playing. The recording is noisy, in mono and emotional and passionate.",0.65%,classical,98.21%,0.0
+bass_5,"wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie during wedding scenes.
+gospel music piece. There is a female vocalist singing melodically in the lead. The tune is being played by a clarinet while the bass guitar plays in the background. The atmosphere is religious. This piece could be used in the soundtrack of a historical drama movie during the scenes where the characters are reminiscing about the good old days.",0.18%,classical,99.25%,0.0
+bass_6,"The song is an instrumental. The song is medium tempo with a accordion playing in harmony and accompaniment style with both medley and harmony and no other instrumentation. beautiful and romantic. The audio quality is poor.
+instrumental. slow with a violin harmony, piano accompaniment and rhythmic whistling sounds. soft, mellow, passionate, emotional and sentimental. a Western Classical.",12.13%,classical,87.07%,0.0
+bass_7,"a sustained string melody, followed by woodwind and mellow piano melody. emotional and passionate - like something you would hear in old cartoons.
+an arpeggiated harp melody. mellow, soft, emotional and sad.",0.01%,classical,99.96%,0.0
+bass_8,"a mellow arpeggiated piano melody playing in the background, while the breathy flute melody is playing over it. sad, emotional and passionate.
+a sustained string melody, followed by woodwind and mellow marimba melodies. emotional, passionate and sad - like something you would hear in movies.",0.02%,classical,99.52%,0.0
+bass_9,"a mellow piano melody, followed by sustained cello melody. sad, emotional and passionate.
+a mellow piano melody, followed by sustained strings melody. sad, emotional and melancholic.",0.00%,classical,99.98%,
+bass_10,"a live performance of an orchestra and it consists of sustained strings melody, mellow woodwinds melody, suspenseful violin melody and muffled percussion. epic, powerful and passionate.
+a wide brass melody, woodwinds melody and mellow piano melody. suspenseful and intense.",0.00%,classical,99.84%,0.0
+drums_0,"instrumental. medium with a hip-hop beat with steady drumming, cymbals crashing, tambourine percussions, and a male voice chanting the same phrase. The audio quality is poor.
+an electro song that consists of a low pitched male vocal talking, after which there is a punchy kick and snare hits, shimmering cymbals and groovy bass guitar. energetic and addictive.",0.70%,pop,40.86%,1.0
+drums_1,"a hip hop song that consists of a low pitched female vocal talking over punchy kick and snare hits, low toms, shimmering hi hats, groovy bass and synth keys melody. chill and easygoing.
+This song contains someone scratching over a hip hop beat with a lot of scratching. This is an amateur recording.",0.01%,hiphop,70.33%,1.0
+drums_2,"The song is an instrumental. medium with a groovy bass line, steady drumming rhythm, keyboard accompaniment and various percussion hits. The song is youthful and groovy. The audio quality is average.
+a hip hop song that consists of a punchy ""4 on the floor"" kick pattern, followed by shimmering hi hats and groovy synth bass. There are some white noise in the background. groovy and the recording is noisy.",0.00%,classical,50.43%,1.0
+drums_3,"an electro song that consists of a punchy kick, buzzy synth bass, claps and shimmering hi-hats. exciting and a bit too digital.
+an electro song that consists of a punchy kick, buzzy synth bass, claps and shimmering hi-hats. groovy and the recording is noisy.",0.00%,hiphop,47.55%,1.0
+drums_4,"a drum cover of a pop song that consists of energetic tom rolls, shimmering cymbals and punchy kick and snare hits. energetic and exciting.
+a drum cover of a pop song that consists of energetic tom rolls, shimmering cymbals and punchy kick and snare hits. energetic and exciting.",0.00%,pop,53.36%,1.0
+drums_5,"This is an industrial metal/alternative metal music piece. There is a male vocalist singing melodically in the lead. The main tune is being played by the keyboard and the electric guitar while the bass guitar are playing in the background. The rhythm is provided by a fast tempo acoustic drum beat. The atmosphere is aggressive. This piece could be played at nightclubs or dance clubs.
+This clip features a drum solo. The kick is played on the cowbell. The snare is played continuously on the first count of the song. After four bars, the percussion plays a simple beat. The bass plays a groovy bassline. There are no voices in this song. This song can be played in a video game.",0.05%,pop,74.57%,1.0
+drums_6,"This clip features a drum solo being played on a rock drum kit. The snare, kick, toms, hi-hat and splash are being struck. A pattern is played on this percussion. There are no other instruments in this song. There is no voice in this clip. This song can be played in a drum instruction video.
+a cover of a rock song and it consists of a flat male vocal talking, followed by punchy kick and snare hits. energetic and the recording is noisy and in mono.",0.09%,metal,60.05%,1.0
+drums_7,"someone playing a drum set with a fill-ins on the backbeat. A e-guitar is playing a countermelody in a higher register along with a drum stick hit. This song may be playing live at a festival.
+someone playing a complex drum groove with fill-ins on the backbeat and a distorted e-guitar. This song may be playing live at a festival.",0.94%,metal,81.85%,1.0
+drums_8,"an electric guitar melody played over playback that consists of groovy bass, shimmering hi hats and snare hits. There are some crowd noises in the background. The recording is noisy and in mono.
+an arpeggiated electric guitar melody. The recording is noisy and in mono.",0.03%,pop,64.91%,0.0
+drums_9,"someone playing a melody on a theremin. This is an amateur recording. This song may be playing in a church.
+someone playing a very fast snare drum-roll. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing in a theater.",0.00%,classical,99.90%,0.0
+drums_10,"a cover of a rock song and it consists of a flat male vocal singing over acoustic rhythm guitar chords. The recording is noisy and in mono.
+a cover of a rock song and it consists of a flat male vocal singing over acoustic rhythm guitar chords. The recording is noisy, in mono and passionate and emotional.",25.61%,pop,47.79%,0.0
+other_0,"a passionate electric guitar melody playing in the background. emotional and passionate. The recording is noisy and in mono.
+an electric guitar melody. mellow, chill and easygoing.",5.06%,classical,73.76%,0.0
+other_1,"an electric guitar solo melody. passionate and emotional. The recording is noisy and in mono.
+an electric guitar melody played over playback that consists of punchy kick and snare hits, shimmering hi hats and groovy bass. emotional and the recording is noisy and in mono.",86.81%,blues,86.81%,1.0
+other_2,"The song is an instrumental. medium with a guitar playing rhythm, steady drumming rhythm, cymbal crashes and guitar strumming rhythm. The song is emotional and passionate. The audio quality is poor.
+The song is an instrumental. slow with a guitarist demonstrating a guitar playing arpeggiated melody. The song is emotional and has poor audio quality.",6.07%,metal,88.36%,1.0
+other_3,"a cover of a rock song that consists of a passionate female vocal singing over sustained strings melody, punchy kick and snare hits, shimmering hi hats and acoustic rhythm guitar. emotional and passionate.
+a cover of a rock song and it consists of an arpeggiated electric guitar melody playing over it. The recording is noisy and in mono.",2.49%,rock,65.84%,0.0
+other_4,"a live performance of a rock song that consists of an electric guitar melody played over groovy bass guitar, punchy snare and shimmering cymbals. easygoing and energetic.
+This is an alternative rock music piece. There is a male vocalist singing melodically. The main tune is being played by the acoustic guitar while the bass guitar is playing in the background. The rhythmic background consists of a slow tempo acoustic drum beat. The atmosphere is melancholic. This piece could be used in the soundtrack of a drama movie that takes place in the United Kingdom.",0.08%,classical,78.94%,1.0
+other_5,"This amateur recording features a guitar solo being played. Only one note is played on the instrument. This is accompanied by percussion playing a simple beat. The bass plays the root notes of the chords. There are no voices in this song. This song can be played in an instructional video.
+a harpsichord melody being played. There are some ambient sounds in the background. The recording is noisy and in mono.",0.79%,rock,42.80%,1.0
+other_6,"a harpsichord melody being played. There are some keyboard tapping sounds in the right channel of the stereo image. The recording is a bit noisy.
+a harpsichord melody being played. The recording is noisy and passionate and emotional.",0.01%,pop,89.54%,0.0
+other_7,"a cover of a song and it consists of harmonica solo melody over acoustic rhythm guitar chords. passionate and emotional. The recording is noisy and in mono.
+a cover of a rock song and it consists of harmonica solo melody over acoustic rhythm guitar chords. passionate and emotional. The recording is noisy and in mono.",0.14%,country,64.72%,0.0
+other_8,"Someone is strumming chords on an e-guitar while someone is playing a melody on a mandolin. This song may be playing gathered around a bonfire.
+Someone is strumming chords on an e-guitar while someone is playing a melody on a mandolin. This song may be playing live at a concert.",0.01%,pop,90.31%,1.0
+other_9,"an accordion melody playing over it. The recording is noisy and emotional and passionate.
+instrumental. fast with a beautiful Harpsichord melody. upbeat, catchy, engaging, vibrant and vivacious.",0.03%,country,95.49%,0.0
+other_10,"instrumental. fast with a spirited harmonica harmony. upbeat, catchy, engaging, vibrant and vivacious. a Harmonica instrumental.
+a flat male vocal talking, after which there is a synth melody playing. happy and fun. The recording is noisy and in mono.",86.42%,blues,86.42%,0.0
+vocals_0,"a woodblock one shot. The recording is noisy and in mono.
+a woodblock one shot. The recording is noisy and in mono.",0.03%,classical,64.08%,
+vocals_1,"This is an instrument showcase jam. There is a flute playing a solo in an instructive manner. The atmosphere is easygoing. This piece could be sampled for use in beat-making.
+fast tapping in rhythm. The sounds are clicking. There is a metronome sound present as well. The rhythm is regimented.",0.02%,classical,95.42%,
+vocals_2,"a lively instrumental. medium with a plethora of instruments like trumpets, trombone, tuba, bongos and a mandolin. vibrant, melodic, engaging, happy, cheerful and animated.
+someone playing a melody on a harp. This is an amateur recording. This song may be playing in a live concert.",0.04%,classical,97.78%,
+vocals_3,"someone playing a very low sounding bass flute like instrument. In the background you can hear birds chirping. This song may be playing during a live performance from a music school.
+someone playing a very low sounding bass flute like instrument. Playing a rhythmic melody with a percussive sound created with the mouth. This song may be playing in a live concert.",16.74%,classical,78.93%,
+vocals_4,"someone playing a xylophone sound and rattles. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing demonstrating specific sounds on a device.
+someone playing a xylophone sound and rattles. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing demonstrating specific sounds on a device.",0.06%,classical,94.25%,
+vocals_5,"instrumental. slow with a didgeridoo harmony with the sound of birds chirping. incessant, trippy, hypnotic, meditative and trance like. a drumming tutorial.
+someone playing congas with a percussive sound. This is an amateur recording. This may be playing in a live concert.",0.83%,classical,62.94%,
+vocals_6,"someone playing a xylophone sound and rattles. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing demonstrating specific sounds on a device.
+Low fidelity recording of a live concert. The crowd noise is very loud and the audience is screaming. The audio is distorting. Amidst the crowd noise, beat boxing can be heard performing a house music style beat.",0.00%,country,43.15%,
+vocals_7,"a live performance of a traditional song and it consists of a punchy snare hits, shimmering cymbals and wooden percussion. soulful and the recording is noisy.
+The song is an instrumental. fast with a bagpipes playing a rhythmic melody. The song is spirited and highly engaging. The audio quality is average and poor.",0.06%,classical,96.98%,
+vocals_8,"wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie during wedding scenes.
+wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie during wedding scenes.",0.15%,classical,99.33%,
+vocals_9,"a live performance of a folk song and it consists of harmonica solo melody over wooden percussion. emotional and passionate, even though the recording is noisy.
+instrumental. fast with a spirited accordion harmony and rhythmic acoustic guitar accompaniment. rich, dense, complex, engaging, full bodied and pleasant. a Folk song instrumental.",7.09%,classical,92.20%,
+vocals_10,"Someone is playing a melody on a zitar along with a shrutibox in the background. At the end male and female voices are chanting in the mid to high range and a percussive sound can be heard. This song may be playing live at a concert.
+This clip features a sound of percussion being played on the snare drum. There are no other instruments in this clip. There is no voice in this song. This song can be played in an instructional video.",41.91%,classical,55.29%,

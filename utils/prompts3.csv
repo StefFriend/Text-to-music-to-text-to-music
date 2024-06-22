@@ -1,0 +1,90 @@
+Iteration,Prompt,reggae Confidence,Predicted Genre,Predicted Genre Confidence,Iterative Consistency Check
+initial_prompt,"A reggae track with a relaxed and upbeat rhythm characteristic of traditional reggae music. Use steady drum patterns, a bass guitar playing on the offbeat, and rhythmic guitar strumming. Include elements like the melodica or steel drums to give it an authentic island sound.",98.38%,reggae,98.38%,
+bass_0,"a dynamic bass guitar playing. The recording is noisy.
+a dynamic bass guitar playing. The recording is noisy.",0.00%,blues,91.75%,1.0
+bass_1,"This is an amateur recording of a sound effect on a theremin. The audio quality is quite poor. This recording can be sampled for use in beat-making.
+This is an ASMR clip which features a sound that is crackly and fuzzy. We also hear the ambient tone of a room - possibly an air conditioner in the background.",0.00%,classical,92.65%,0.0
+bass_2,"a live performance of a classical song and it consists of mellow woodwind melody played over sustained strings. soulful, passionate and the recording is noisy and in mono.
+a live performance of a classical song and it consists of tuba melody. emotional and passionate, even though the recording is noisy and in mono.",2.77%,classical,85.10%,0.0
+bass_3,"The song is an instrumental. medium with a harpsichord being played with no other instrumentation. The song is emotional and passionate. The audio quality is poor.
+someone playing a melody on a horn with reverb on it. This song may be playing in an orchestra.",0.17%,classical,99.16%,0.0
+bass_4,"a breathy flute melody playing over playback that consists of snare roll and shimmering bells. The recording is noisy and in mono.
+wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding.",0.00%,classical,99.81%,0.0
+bass_5,"wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie during wedding scenes.
+a bagpipes melody playing while a dog is howling. emotional and passionate, even though the recording is noisy.",0.00%,classical,99.80%,0.0
+bass_6,"two people playing accordion. One is playing the foundation as rhythmical chords while the other person is playing a melody in a higher pitch. This song may be playing at a live concert.
+two people playing accordion. One is playing a melody in the lower register while the other person is playing the lead melody in a higher pitch. This song may be playing at a live concert.",0.00%,classical,98.83%,0.0
+bass_7,"a live performance of a folk song and it consists of harmonica solo melody playing over breathy flute melody. The recording is noisy and in mono.
+an arpeggiated acoustic guitar melody. The recording is noisy and in mono.",0.00%,blues,80.61%,0.0
+bass_8,"Here we have a live recording of a meg whistle. The style of playing feels cheery and uplifting. This melody is reminiscent of medieval Irish folk songs or English folk songs.
+Here we have a live recording of a meg whistle. The style of playing feels cheery and uplifting. This melody is reminiscent of medieval Irish folk songs or English folk songs.",0.00%,classical,98.62%,0.0
+bass_9,"Here we have a live recording of a performance on the bagpipes. He plays a piece that feels emotional and uplifting. This piece could be playing in the background at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie that takes place in Scotland.
+Here we have a live recording of an artist playing on the bagpipes. He plays a piece that feels emotional and uplifting. This piece would be fitting on the battlefield to bring about conviction and courage. It is a Scottish instrument.",0.00%,blues,51.98%,0.0
+bass_10,"wedding march that belongs to Scottish folk music. It is an instrumental piece. The tune is being played by the French bagpipes at a medium-to-high pitch. The atmosphere is cheerful. This piece could be playing at a Scottish wedding. It could also be included in the soundtrack of a historical drama movie during wedding scenes.
+people playing a melody with bagpipes in a higher pitch. This song may be playing live during a traditional and formal event.",0.00%,classical,99.15%,0.0
+drums_0,"a wooden percussion one shot. The recording is in mono, noisy and like a tutorial.
+This song features percussion being played. There is no percussion in this song. The kick is played twice on the first count of each bar. The snare is played on the second and fourth counts of the first note can be heard. There are no other instruments in this clip.",2.61%,hiphop,70.01%,0.0
+drums_1,"This is an instrumental percussion piece. There is a drum kit composed of the cowbells and the timbales. The drummer is playing an energetic solo on this kit. This piece could be playing in the background at a drum shop.
+a squeaking sound, followed by shimmering bells. The recording is noisy.",0.01%,classical,91.54%,1.0
+drums_2,"an upbeat instrumental. fast with an enthusiastic drumming rhythm, vigorous cymbals and synthesiser articulation. buoyant, catchy, punchy, youthful, energetic and pulsating with a dance groove. This clip is an amateur recording.
+instrumental. fast with an enthusiastic acoustic guitar riff, clapping beats and keyboard accompaniment. youthful, buoyant, catchy, punchy, groovy, youthful and energetic. a Reggae song.",0.00%,hiphop,49.47%,1.0
+drums_3,"This clip features a drum solo being played on a snare drum. The snare, kick, toms, hi-hat and splash are being struck. There are no other instruments in this clip. There is no voice in this song. This song can be played in a drum instruction video.
+a flat male vocal talking, after which there is a groovy bass guitar playing. The recording is noisy and in mono.",0.00%,pop,56.68%,1.0
+drums_4,"This is an instrumental percussion piece. There is a drum kit composed of the cowbells and the timbales. The drummer is playing a solo on this kit. This piece could be sampled for use in beat-making.
+someone playing a percussive instrument on a drum kit. This audio may be playing live on a busker.",0.01%,classical,55.89%,1.0
+drums_5,"bass guitar jam in the style of funk. It is an instrumental performance. There is a male vocalist singing melodically in the lead. The bass guitar is playing a simple tune with the backing of an acoustic sounding drum beat. The atmosphere is groovy. This piece could be playing in the opening theme of a tutorial video game.
+This clip features a bass guitar being played. It is an instrumental song. There are no other instruments in this clip. There is no voice in this song. This song can be played in an instructional video.",0.00%,hiphop,38.94%,1.0
+drums_6,"a dynamic bass guitar playing. The recording is noisy and in mono.
+an ambient song that consists of a wide echoing female vocal singing. passionate, soulful and the recording is noisy and in mono.",0.02%,pop,96.44%,0.0
+drums_7,"This is the amateur recording of a didgeridoo being played. There is a male voice speaking in an instructive manner. The quality of the recording is quite poor. This piece could be used in the soundtrack of a historical drama movie, especially during the scenes where the characters are reminiscing the good memories.
+This is the amateur recording of a didgeridoo being played. There is a male vocalist singing gently in the background. The atmosphere is calming and relaxing. This piece could be used in the soundtrack of a meditation video.",0.26%,pop,62.08%,0.0
+drums_8,"someone playing a melody on an organ in the mid- to higher range. This song may be playing in a church.
+This clip features the sound of a didgeridoo being played. There are no other instruments in this song. There is no voice in this clip. This is an instrumental song. The mood of this song is relaxing. It could be played in a meditation center.",0.01%,classical,99.09%,0.0
+drums_9,"an ambient song that consists of a wide sustained synth pad, followed by mellow sustained strings. calming and relaxing.
+an ambient song that consists of a mellow piano melody, short plucked melody and wide synth pad. calming and relaxing.",0.00%,classical,99.77%,0.0
+drums_10,"an ambient song that consists of mellow wide bells and wide low synth pad playing. calming and relaxing, like something you would hear in a hypnotic therapy session.
+an ambient song that consists of mellow wide bells and wide low synth pad playing. calming, relaxing and hypnotic, like something you would hear in a hypnotic therapy session.",0.06%,classical,93.63%,0.0
+other_0,"a wooden percussion. The recording is noisy, in mono and like a tutorial.
+a wooden percussion. The recording is noisy, in mono and like a tutorial.",0.00%,blues,93.45%,0.0
+other_1,"a drum roll solo, followed by laughter. The recording is noisy and in mono.
+a drum roll solo, followed by shimmering hi hats and ""4 on the floor"" kick pattern. groovy and the recording is noisy.",0.02%,classical,85.89%,0.0
+other_2,"This is an instrumental percussion piece. There is an acoustic latin drum kit composed of the cowbells and the timbales. The drummer is playing an energetic solo on this kit. This piece could be playing in the background at a drum shop.
+This is an instrumental percussion piece. There is an acoustic latin drum kit composed of the cowbells and the timbales. The drummer is playing an energetic solo on this kit. This piece could be playing in the background at a drum shop.",0.00%,classical,92.11%,0.0
+other_3,"a cowbell percussion, after which there is a flat male vocal talking. groovy and the recording is noisy and in mono.
+a cowbell percussion, after which there is a punchy ""4 on the floor"" kick pattern. groovy and the recording is noisy and in mono.",0.00%,classical,97.43%,0.0
+other_4,"This is an instrumental percussion piece. There is a drum kit composed of the cowbells and the timbales. The drummer is playing an energetic solo on this kit. This piece could be playing in the background at a drum shop.
+This is an amateur recording of a percussion piece. There is a male vocalist playing a raspy solo on the snare drum of a drum kit. The bass guitar is playing in the background. The rhythm is provided by an acoustic drum beat. There are no other instruments in this song. This piece can be sampled for use in beat-making.",0.01%,classical,69.72%,0.0
+other_5,"The song is an instrumental. medium with a djembe with no other instrumentation. The song is youthful and energetic. The audio quality is poor.
+someone playing a xylophone sound and rattles. This is an amateur recording. You can hear clicking and recording noises. This audio may be playing demonstrating specific sounds on a device.",0.01%,pop,97.65%,0.0
+other_6,"This is an instrumental percussion piece recording. There is a drum kit composed of the cowbell and the timbales. The drummer is playing an energetic solo on this kit. This piece could be playing in the background at a drum shop.
+This is an instrumental percussion piece recording. There is a male voice speaking in a foreign language. The main melody is being played by the tambourine and the keyboard while the bass guitar is playing in the background. The rhythmic background is provided by a percussive acoustic drum beat. The atmosphere is vibrant. This piece could be used in the soundtrack of a drama movie that takes place in the Middle East.",0.00%,pop,50.42%,0.0
+other_7,"Solo latin percussion music featuring congas, cowbells, and timbales.
+Solo latin percussion music featuring congas, cowbells, and timbales.",0.16%,pop,55.53%,0.0
+other_8,"Solo latin percussion music featuring congas, cowbells, and timbales, performing complex rhythms.
+Solo latin percussion music featuring congas, cowbells, and timbales, performing complex rhythms.",36.79%,reggae,36.79%,0.0
+other_9,"an electro song that consists of reversed hi hats, followed by shimmering 2 step hi hats and ""4 on the floor"" kick pattern playing on top of it. groovy and exciting.
+Solo percussion playing additive rhythms and polyrhythms.",0.00%,classical,87.40%,0.0
+other_10,"Someone is hitting tibetan bowls that keep ringing out with a big release time. This is an amateur recording.
+This is the recording of a theremin solo. The recording is noisy and in mono.",0.06%,classical,66.59%,0.0
+vocals_0,"a wooden percussion. The recording is noisy and in mono.
+a wooden percussion. The recording is noisy and in mono.",0.00%,classical,56.67%,
+vocals_1,"someone playing an acoustic drum set with a lot of reverb. This is an amateur recording. This song may be playing in the background at a live concert.
+calm and relaxing meditation track. We hear the ringing of a tibetan bowl and its resonance. This would be useful for any tranquil environment primed for meditation.",0.56%,pop,89.73%,
+vocals_2,"a reverberant electric guitar melody. mellow, soft, emotional and the recording is noisy and in mono.
+a reverberant electric guitar melody played over playback that consists of groovy bass guitar, punchy kick, shimmering hi hats and punchy snare. At the very end of the loop, there is a muffled male vocal singing over it. emotional, passionate and the recording is noisy.",0.02%,rock,89.87%,
+vocals_3,"a rock song that consists of a flat male vocal singing over electric guitar melody in the background. The recording is noisy, in mono and emotional and passionate.
+a cover of a rock song and it consists of a passionate male vocal singing over sustained strings melody. emotional, passionate and the recording is noisy and in mono.",0.84%,pop,98.40%,
+vocals_4,"an electric guitar instrumental. medium with a smooth electric guitar lead harmony. clear, emphatic, smooth, groovy, youthful, crisp, edgy and dominant.
+a live performance of a rock song that consists of flat male vocal singing over electric guitar chords. passionate, emotional and the recording is noisy and in mono.",0.05%,pop,47.50%,
+vocals_5,"The song is an instrumental. slow with an electric guitar playing a slow melody with a lot of reverb pedal. The song is emotional and full of tension. The audio quality is poor.
+a live performance of a rock song that consists of sustained strings melody playing. passionate, emotional and the recording is noisy and in mono.",0.01%,classical,34.42%,
+vocals_6,"instrumental. fast with an electric guitar riff playing a cover of a popular melody. intense, loud, passionate, violent, aggressive and thunderous. heavy metal/ death metal.
+instrumental. slow with a melancholic electric guitar riff. intense, passionate, emotional, sentimental, sad, melancholic and heart-touching. a cover of a movie soundtrack.",0.00%,metal,57.12%,
+vocals_7,"heavy metal music piece. There is a male vocalist singing melodically at the forefront. The melody is being played by the distorted electric guitar and the keyboard while the bass guitar is playing in the background. The rhythmic background consists of a fast tempo acoustic drum beat. The atmosphere is loud and aggressive. This piece could be used in the soundtrack of an action-filled video game.
+a live performance of a rock song that consists of flat male vocal singing over punchy kick and snare hits, shimmering cymbals and groovy bass guitar. The recording is noisy and in mono.",0.01%,metal,97.78%,
+vocals_8,"The song is an instrumental. medium with a heavy metal drumming rhythm, percussive bass line, keyboard accompaniment and various percussion hits. The song is exciting and energetic. The audio quality is poor.
+The song is an instrumental. medium with a steady drumming rhythm with heavy cymbal crashes and guitar accompaniment. The song is energetic and passionate. The audio quality is poor.",0.02%,classical,50.64%,
+vocals_9,"someone playing a complex drum groove with fill-ins on cymbals and toms. A distorted e-guitar is playing a dangerous sounding melody in a higher key. This song may be playing live at a festival.
+a drum cover of a metal song that consists of punchy kick and snare hits, shimmering cymbals, wide electric guitar melody and groovy bass guitar. The recording is in mono and noisy.",0.00%,metal,99.72%,
+vocals_10,"a live performance of a metal song that consists of flat male vocal singing over punchy kick and snare hits, shimmering cymbals, distorted electric guitar melody and groovy bass guitar. There are some crowd cheering sounds in the background. aggressive and energetic.
+drum cover of a heavy metal music piece. There is a male vocalist singing melodically in the lead. The main tune is being played by the distorted electric guitar while the bass guitar is playing in the background. The rhythmic background consists of a simple acoustic drum beat. The atmosphere is aggressive.",0.00%,metal,99.88%,
