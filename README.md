@@ -27,6 +27,8 @@ We obtained three [results](https://steffriend.github.io/Text-to-music-to-text-t
 
 The project successfully demonstrated the cyclic process of generating music from text and vice versa, emphasizing both the potential and challenges of iterative generative models. The iterative cycles introduced variations that highlighted the creative potential of these models, while also indicating the need for improved consistency and genre recognition. The observed genre-specific instability suggests varying levels of AI model adaptability to different musical styles, highlighting critical areas for future research and refinement.
 
+See the `utils` directory to find the notebook file used to generate the graphs represented on the paper and also for our output prompts in csv format. 
+
 ## Requirements
 
 To install the required Python packages, run:
@@ -62,7 +64,7 @@ pip install -r requirements.txt
 Run the script with the following arguments:
 
 ```bash
-python script_name.py --prompt "your prompt" --genre "target genre"
+python infinitystem.py --prompt "your prompt" --genre "target genre"
 ```
 
 ### Arguments
