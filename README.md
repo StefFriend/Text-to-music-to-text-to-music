@@ -19,15 +19,16 @@ The project is based on:
 
 5. Iterative Process: Each initial prompt stem underwent ten iterations through a cycle of captioning, regeneration, classification, and data collection. This iterative process aimed to assess the stability and accuracy of genre recognition in AI-generated music.
 
-We obtained three [results](https://steffriend.github.io/Text-to-music-to-text-to-music/):
+For the three initial prompts we obtained these [results](https://steffriend.github.io/Text-to-music-to-text-to-music/):
 - Prompt 1: Blues - The generated music was coherent with the blues genre, though genre recognition confidence was low.
 - Prompt 2: Classical - The generated music was coherent, with a high confidence score in genre recognition.
 - Prompt 3: Reggae - The generated music was coherent, with a high confidence score in genre recognition.
 
+You can find all of captions in the [Github Page](https://steffriend.github.io/Text-to-music-to-text-to-music/).
 
 The project successfully demonstrated the cyclic process of generating music from text and vice versa, emphasizing both the potential and challenges of iterative generative models. The iterative cycles introduced variations that highlighted the creative potential of these models, while also indicating the need for improved consistency and genre recognition. The observed genre-specific instability suggests varying levels of AI model adaptability to different musical styles, highlighting critical areas for future research and refinement.
 
-See the `utils` directory to find the notebook file used to generate the graphs represented on the paper and also for our output prompts in csv format. 
+See the `utils` directory for the notebook file used to generate the graphs represented on the paper and also for our output prompts in csv format. 
 
 ## Requirements
 
