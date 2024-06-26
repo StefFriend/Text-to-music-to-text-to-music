@@ -8,5 +8,5 @@ pip install -r requirements.txt
 
 # then
 cd vggish/
-wget https://huggingface.co/1111111111111111111111/vggish_model.ckpt
+wget https://huggingface.co/davelista/music-genre-classification/blob/main/vggish/vggish_model.ckpt
 ```
