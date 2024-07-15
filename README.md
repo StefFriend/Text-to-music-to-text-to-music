@@ -1,4 +1,4 @@
-# Text-to-music-to-text-to-music
+# Text-to-music-to-text-to-music: a research study to explore AI’s capability in preserving genre and instrumental coherence through iterative generations
 
 Code repository for Polimi MAE Capstone - Project L-14 
 
