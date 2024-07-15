@@ -1,4 +1,4 @@
-<span id=prompt></span>
+<span id=prompt></span> 
 [Go to Prompt1](#prompt1) [Go to Prompt2](#prompt2) [Go to Prompt3](#prompt3)
 
 <h2 id=prompt1>Prompt 1</h2>  
